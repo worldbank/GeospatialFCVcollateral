@@ -1,6 +1,6 @@
 ## Welcome to the World Bank's FCV Data Collection Tutorials
 
-On this site you can find training material related to how to integrate modern data collection processes into a variety of development projects. There tutorials are focused on three primary data collection methods: Modile Phone data, Satelite imagery, and Drone imagery. Below you can find links to each of these modules, along with additional learning material at the bottom of the page. 
+On this site you can find training material related to integrating modern data collection processes into a variety of development projects, specifically in an Fragile, Conflict & Violence (FCV) context. These tutorials are focused on three primary data collection methods: Modile Phone data, Satelite imagery, and Drone imagery. Below you can find links to each of these modules, along with additional learning material at the bottom of the page. 
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
