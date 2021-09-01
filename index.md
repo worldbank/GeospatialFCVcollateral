@@ -1,12 +1,14 @@
-## Welcome to the World Bank's FCV Data Collection Tutorials
+## Welcome to the Geospatial and ICT Resources Page
 
 On this site you can find training material related to integrating modern data collection processes into a variety of development projects, specifically in Fragile, Conflict & Violence (FCV) contexts. These tutorials are focused on three primary data collection methods: Modile Phone data, Satelite imagery, and Drone imagery. Below you can find links to each of these modules, along with additional learning material at the bottom of the page. 
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
-### Mobile Phone Data
+### Mobile Phone Data / Additional Resources
 
 <img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
+
+* [Big Mobile phone data guide](https://wordpress.com/support/markdown-quick-reference/)
 
 In this module, you will learn how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You will learn how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You will also learn how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You will explore case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery. Finally, you will learn principles and practices for responsibly using modile data in development work.
 
