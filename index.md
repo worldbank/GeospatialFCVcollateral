@@ -1,6 +1,6 @@
 ## Welcome to the Geospatial and ICT Resources Page
 
-On this site you can find additional resources related to the training modules related to integrating modern data collection processes using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones),and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning material and othe relevant resources.
+On this site you can find supplementary resources for the World Bank training modules related to the intergration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones),and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning material and other relevant resources.
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
@@ -50,13 +50,15 @@ In this module, we will learned about the basics of satellite imagery and remote
 * [Satellite Imaging Corporation](http://www.satimagingcorp.com/)
 * [Urthecast](https://www.urthecast.com)
 
+
 ### Drone Imagery <a name="drones"></a>
 
 <img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
 
-In this module, you will learn some basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. Finally, you will examine the risks associated with using drones in a projectfor image collection and the safety measures that should be taken to ensure drones are used responsibly.  
+In this module, you learned some basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. Finally, you examineed the risks associated with using drones in a project for image collection and the safety measures that should be taken to ensure drones are used responsibly.  
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Drone Module</button>
+
 
 ### Mobile Phone Data <a name="mobile"></a>
 
@@ -64,9 +66,10 @@ In this module, you will learn some basic information related to drones, as well
 
 * [Big Mobile phone data guide](https://wordpress.com/support/markdown-quick-reference/)
 
-In this module, you will learn how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You will learn how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You will also learn how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You will explore case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery. Finally, you will learn principles and practices for responsibly using modile data in development work.
+In this module, you learned how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You learned how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You also learned how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You explored case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery. Finally, you learned the principles and practices for responsibly using modile data in development work.
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Mobile Phone Module</button>
+
 
 ### Addtional Resource
 
