@@ -16,6 +16,12 @@ In this module, we will learned about the basics of satellite imagery and remote
 #### Links to Additional Reference Material
 * [ESA: Geospatial Infromation Technology in FCV contexts](http://www.eo4sd-fragility.net/news/geospatial-information-technology-git-fragile-contexts-%E2%80%93-now-accessible-world-bank-groups-open)
 * [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
+* [EU Science Hub. Global Human Settlement Layer](https://ec.europa.eu/jrc/en/global-human-settlement-layer)
+* [Global Solar Atlas](https://globalsolaratlas.info/support/about)
+* [NASA Shuttle Radar Topography Mission](https://www2.jpl.nasa.gov/srtm/)
+* [NASA Earth Observatory: A Global View of Landslide Susceptibility](https://www2.jpl.nasa.gov/srtm/)
+* [World Pop](https://www.worldpop.org/about)
+* 
 #### Links to Public Data Repositories 
 * [China](http://www.cma.gov.cn/en)
 * [ESA](https://earth.esa.int/web/guest/home)
