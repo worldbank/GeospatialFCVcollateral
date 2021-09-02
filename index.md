@@ -1,6 +1,6 @@
 ## Welcome to the Geospatial and ICT Resources Page
 
-On this site you can find training material related to integrating modern data collection processes into a variety of development projects, specifically in Fragile, Conflict & Violence (FCV) contexts. These tutorials are focused on three primary data collection methods: Modile Phone data, Satelite imagery, and Drone imagery. Below you can find links to each of these modules, along with additional learning material at the bottom of the page. 
+On this site you can find additional resources related to the training modules related to integrating modern data collection processes using Satellite Imgery, Drone Imagery,and Modile Phone data. Below you can find links to each of these modules, along with additional learning material and othe relevant resources.
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
@@ -9,9 +9,42 @@ These training materials were developed by the World Bank in partnership with XX
 
 <img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
 
-In this module, we will learn about the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. We will learn about the key terms related to remote sensing, and examine how to acquire the right images by learning how to properly define key objectives. We will also explore when remote sensing may not be the right data for your project needs. And finally, we will explore various case studies to observe how projects have utilized this data in different ways.
+In this module, we will learned about the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. We learned about the key terms related to remote sensing, and examined how to acquire the right images by learning how to properly define key objectives. We also explored when remote sensing may not be the right data for your project needs, and, finally, we explored various case studies to illustrate how projects have utilized this data in different ways.
  
+If you have not already completed the training module, click the button below to navigate to the online training portal:
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Remote Sensing Module</button>
+
+#### Links to Additional Reference Material
+* [ESA: Geospatial Infromation Technology in FCV contexts](http://www.eo4sd-fragility.net/news/geospatial-information-technology-git-fragile-contexts-%E2%80%93-now-accessible-world-bank-groups-open)
+* [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
+
+#### Links to Public Data Repositories 
+* [China](http://www.cma.gov.cn/en)
+* [ESA](https://earth.esa.int/web/guest/home)
+* [ESA-Sentinel](https://sentinel.esa.int/web/sentinel/)
+* [Eumetsat](http://www.eumetsat.int/website/home/index.html)
+* [India](http://bhuvan.nrsc.gov.in/bhuvan_links.php)
+* [Japan](http://www.eorc.jaxa.jp/en/about/distribution/index.html)
+* [NASA](https://earthdata.nasa.gov/earth-observation-data)
+* [NOAA](http://www.ospo.noaa.gov/)
+* [Sentinel Hub](https://www.sentinel-hub.com/)
+* [USGS (Landsat)](http://earthexplorer.usgs.gov/)
+
+#### Links to Commericial Data Vendors
+* [Airbus](https://www.intelligence-airbusds.com/access-to-our-products/)
+* [Apollo Mapping](https://apollomapping.com/)
+* [CGG](http://www.cgg.com/default.aspx?cid=7450)
+* [Deimos](https://www.deimos-imaging.com/imagery-store/)
+* [E-geos](http://www.e-geos.it/index.html)
+* [European Space Imaging](http://www.euspaceimaging.com/)
+* [GHGSat](https://www.ghgsat.com/)
+* [Land info](http://www.landinfo.com/)
+* [MAXAR Resellers](https://www.maxar.com/partner-ecosystem/resellers)
+* [MDA Geospatial Services](http://gs.mdacorporation.com/Partners/Partners.aspx)
+* [Planet Labs](https://www.planet.com)
+* [Precision Hawk](https://www.precisionhawk.com/satellite)
+* [Satellite Imaging Corporation](http://www.satimagingcorp.com/)
+* [Urthecast](https://www.urthecast.com)
 
 
 ### Drone Imagery
