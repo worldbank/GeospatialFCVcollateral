@@ -14,6 +14,7 @@ In this module, we will learned about the basics of satellite imagery and remote
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Remote Sensing Module</button>
 
 #### Links to Additional Reference Material
+* [ESA: Agriculture Overview](https://earth.esa.int/web/guest/earth-topics/agriculture)
 * [ESA: Geospatial Infromation Technology in FCV contexts](http://www.eo4sd-fragility.net/news/geospatial-information-technology-git-fragile-contexts-%E2%80%93-now-accessible-world-bank-groups-open)
 * [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
 * [EU Science Hub. Global Human Settlement Layer](https://ec.europa.eu/jrc/en/global-human-settlement-layer)
@@ -21,7 +22,6 @@ In this module, we will learned about the basics of satellite imagery and remote
 * [NASA Shuttle Radar Topography Mission](https://www2.jpl.nasa.gov/srtm/)
 * [NASA Earth Observatory: A Global View of Landslide Susceptibility](https://www2.jpl.nasa.gov/srtm/)
 * [World Pop](https://www.worldpop.org/about)
-* 
 #### Links to Public Data Repositories 
 * [China](http://www.cma.gov.cn/en)
 * [ESA](https://earth.esa.int/web/guest/home)
