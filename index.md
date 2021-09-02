@@ -1,6 +1,6 @@
 ## Welcome to the Geospatial and ICT Resources Page
 
-On this site you can find additional resources related to the training modules related to integrating modern data collection processes using [Satellite Imagery](#remotesensing), [Drone Imagery](#Drone-Imagery),and [Modile Phone data](#Mobile-Phone-Data). Below you can find links to each of these modules, along with additional learning material and othe relevant resources.
+On this site you can find additional resources related to the training modules related to integrating modern data collection processes using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones),and [Modile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning material and othe relevant resources.
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
@@ -49,7 +49,7 @@ In this module, we will learned about the basics of satellite imagery and remote
 * [Satellite Imaging Corporation](http://www.satimagingcorp.com/)
 * [Urthecast](https://www.urthecast.com)
 
-### Drone Imagery
+### Drone Imagery <a name="drones"></a>
 
 <img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
 
@@ -57,7 +57,7 @@ In this module, you will learn some basic information related to drones, as well
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Drone Module</button>
 
-### Mobile Phone Data
+### Mobile Phone Data <a name="mobile"></a>
 
 <img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
 
