@@ -21,6 +21,7 @@ In this module, we will learned about the basics of satellite imagery and remote
 * [Global Solar Atlas](https://globalsolaratlas.info/support/about)
 * [NASA Shuttle Radar Topography Mission](https://www2.jpl.nasa.gov/srtm/)
 * [NASA Earth Observatory: A Global View of Landslide Susceptibility](https://www2.jpl.nasa.gov/srtm/)
+* [Satsummit: The State of Satellites](https://landscape.satsummit.io/)
 * [World Pop](https://www.worldpop.org/about)
 #### Links to Public Data Repositories 
 * [China](http://www.cma.gov.cn/en)
