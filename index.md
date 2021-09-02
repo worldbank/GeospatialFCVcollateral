@@ -1,6 +1,6 @@
 ## Welcome to the Geospatial and ICT Resources Page
 
-On this site you can find additional resources related to the training modules related to integrating modern data collection processes using [Satellite Imagery](#remotesensing), [Drone Imagery](drones),and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning material and othe relevant resources.
+On this site you can find additional resources related to the training modules related to integrating modern data collection processes using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones),and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning material and othe relevant resources.
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
