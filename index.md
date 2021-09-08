@@ -9,7 +9,7 @@ These training materials were developed by the World Bank in partnership with XX
 
 <img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
 
-In this module, we will learned about the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. We learned about the key terms related to remote sensing, and examined how to acquire the right images by learning how to properly define key objectives. We also explored when remote sensing may not be the right data for your project needs, and, finally, we explored various case studies to illustrate how projects have utilized this data in different ways.
+In this module, we learned about the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. We learned about the key terms related to remote sensing, and examined how to acquire the right images by learning how to properly define key objectives. We also explored when remote sensing may not be the right data for your project needs, and, finally, we explored various case studies to illustrate how projects have utilized this data in different ways.
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Remote Sensing Module</button>
 
@@ -71,12 +71,6 @@ In this module, you learned some basic information related to drones, as well as
 In this module, you learned how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You learned how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You also learned how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You explored case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery. Finally, you learned the principles and practices for responsibly using modile data in development work.
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Mobile Phone Module</button>
-
-
-### Addtional Resource
-
-Stay tuned... There is more to come soon!
-
 
 
 <!--
