@@ -15,7 +15,6 @@ In this module, we learned about the basics of satellite imagery and remote sens
 
 #### Links to Additional Reference Material 
 * [ESA: Agriculture Overview](https://earth.esa.int/web/guest/earth-topics/agriculture)
-* [ESA: Geospatial Infromation Technology in FCV contexts](http://www.eo4sd-fragility.net/news/geospatial-information-technology-git-fragile-contexts-%E2%80%93-now-accessible-world-bank-groups-open)
 * [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
 * [EU Science Hub. Global Human Settlement Layer](https://ec.europa.eu/jrc/en/global-human-settlement-layer)
 * [Global Solar Atlas](https://globalsolaratlas.info/support/about)
@@ -23,6 +22,9 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [NASA Earth Observatory: A Global View of Landslide Susceptibility](https://www2.jpl.nasa.gov/srtm/)
 * [Satsummit: The State of Satellites](https://landscape.satsummit.io/)
 * [World Pop](https://www.worldpop.org/about)
+
+#### Links to Additional Training Material 
+* [ESA: Geospatial Infromation Technology in FCV contexts](http://www.eo4sd-fragility.net/news/geospatial-information-technology-git-fragile-contexts-%E2%80%93-now-accessible-world-bank-groups-open)
 
 #### Links to Public Data Repositories 
 * [China](http://www.cma.gov.cn/en)
@@ -50,6 +52,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [Planet Labs](https://www.planet.com)
 * [Precision Hawk](https://www.precisionhawk.com/satellite)
 * [Satellite Imaging Corporation](http://www.satimagingcorp.com/)
+* [SIIS](https://www.si-imaging.com/)
 * [Urthecast](https://www.urthecast.com)
 
 
