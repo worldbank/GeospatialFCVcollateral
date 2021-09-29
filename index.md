@@ -13,6 +13,25 @@ In this module, we learned about the basics of satellite imagery and remote sens
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Remote Sensing Module</button>
 
+<table style="width:100%">
+  <tr>
+    <th href="https://earth.esa.int/web/guest/earth-topics/agriculture">ESA: Agriculture Overview</th>
+    <th href="http://www.cma.gov.cn/en">ESA: Newcomers Earth Observation Guide</th>
+    <th href="https://ec.europa.eu/jrc/en/global-human-settlement-layer">Country</th>
+  </tr>
+  <tr>
+    <th href="https://earth.esa.int/web/guest/earth-topics/agriculture">ESA: Agriculture Overview</th>
+    <th href="http://www.cma.gov.cn/en">ESA: Newcomers Earth Observation Guide</th>
+    <th href="https://ec.europa.eu/jrc/en/global-human-settlement-layer">Country</th>
+  </tr>
+  <tr>
+    <th href="https://earth.esa.int/web/guest/earth-topics/agriculture">ESA: Agriculture Overview</th>
+    <th href="http://www.cma.gov.cn/en">ESA: Newcomers Earth Observation Guide</th>
+    <th href="https://ec.europa.eu/jrc/en/global-human-settlement-layer">Country</th>
+  </tr>
+</table>
+
+
 #### Links to Additional Reference Material 
 * [ESA: Agriculture Overview](https://earth.esa.int/web/guest/earth-topics/agriculture)
 * [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
