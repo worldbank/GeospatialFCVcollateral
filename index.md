@@ -64,6 +64,23 @@ In this module, you learned some basic information related to drones, as well as
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Drone Module</button>
 
+#### Links to Popular Data Processing Softwares
+* [DroneDeploy 3D](https://www.dronedeploy.com/product/gallery/)
+* [Pix4d](https://www.pix4d.com/)
+* [PrecisionHawk 3D](https://www.precisionhawk.com/)
+* [ArcGIS Drone2Map](https://www.esri.com/en-us/arcgis/products/arcgis-drone2map/overview)
+* [Open Drone Map](https://www.opendronemap.org/)
+* [Agisoft](https://www.agisoft.com/)
+* [Maps Made Easy](https://www.mapsmadeeasy.com/)
+* [3DF Zphyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/)
+
+#### Open Drone Data Repositories
+* [Open Aerial Map](https://openaerialmap.org/)
+
+#### Related Blog Posts
+* [World Bank Blogs: Pointers from the Philippines](https://blogs.worldbank.org/governance/drones-better-roads-pointers-philippines)
+* [UNDP Drones fro Social Good](https://stories.undp.org/drones-for-social-good)
+* [Development Asia: How to Use Drones in Development Projects](https://development.asia/explainer/how-use-drones-development-projects#collapse1d)
 
 ### Mobile Phone Data <a name="mobile"></a>
 
