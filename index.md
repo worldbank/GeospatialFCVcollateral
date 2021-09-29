@@ -7,7 +7,7 @@ These training materials were developed by the World Bank in partnership with XX
 
 ### Remote Sensing Imagery  <a name="remotesensing"></a>
 
-<img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
+<img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
 In this module, we learned about the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. We learned about the key terms related to remote sensing, and examined how to acquire the right images by learning how to properly define key objectives. We also explored when remote sensing may not be the right data for your project needs, and, finally, we explored various case studies to illustrate how projects have utilized this data in different ways.
 
@@ -58,7 +58,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 
 ### Drone Imagery <a name="drones"></a>
 
-<img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
+<img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
 In this module, you learned some basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. Finally, you examineed the risks associated with using drones in a project for image collection and the safety measures that should be taken to ensure drones are used responsibly.  
 
@@ -67,7 +67,7 @@ In this module, you learned some basic information related to drones, as well as
 
 ### Mobile Phone Data <a name="mobile"></a>
 
-<img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
+<img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
 * [Big Mobile phone data guide](https://wordpress.com/support/markdown-quick-reference/)
 
