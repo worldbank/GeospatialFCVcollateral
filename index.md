@@ -38,6 +38,10 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [Sentinel Hub](https://www.sentinel-hub.com/)
 * [USGS (Landsat)](http://earthexplorer.usgs.gov/)
 
+#### Links to Derivative Products
+* [Poverty from Space: Using High-Resolution Satellite Imagery for Estimating Economic Well-Being](https://documents1.worldbank.org/curated/en/610771513691888412/pdf/WPS8284.pdf)
+
+
 #### Links to Commercial Data Vendors
 * [Airbus](https://www.intelligence-airbusds.com/access-to-our-products/)
 * [Apollo Mapping](https://apollomapping.com/)
@@ -74,10 +78,10 @@ In this module, you learned some basic information related to drones, as well as
 * [Maps Made Easy](https://www.mapsmadeeasy.com/)
 * [3DF Zphyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/)
 
-#### Open Drone Data Repositories
+#### Links to Open Drone Data Repositories
 * [Open Aerial Map](https://openaerialmap.org/)
 
-#### Related Blog Posts
+#### Links to Related Blog Posts
 * [World Bank Blogs: Pointers from the Philippines](https://blogs.worldbank.org/governance/drones-better-roads-pointers-philippines)
 * [UNDP Drones fro Social Good](https://stories.undp.org/drones-for-social-good)
 * [Development Asia: How to Use Drones in Development Projects](https://development.asia/explainer/how-use-drones-development-projects#collapse1d)
