@@ -30,17 +30,26 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [China](http://www.cma.gov.cn/en)
 * [ESA](https://earth.esa.int/web/guest/home)
 * [ESA-Sentinel](https://sentinel.esa.int/web/sentinel/)
+* [Esri Open Data Hub](https://hub.arcgis.com/search)
 * [Eumetsat](http://www.eumetsat.int/website/home/index.html)
 * [India](http://bhuvan.nrsc.gov.in/bhuvan_links.php)
 * [Japan](http://www.eorc.jaxa.jp/en/about/distribution/index.html)
 * [NASA](https://earthdata.nasa.gov/earth-observation-data)
+* [NASA's Socioeconomic Data and Application Center (SEDAC)](https://sedac.ciesin.columbia.edu/)
+* [NASA's Earth Observations (NEO)](hhttps://neo.sci.gsfc.nasa.gov/)
+* [Natural Earth Data](http://www.naturalearthdata.com/downloads/)
 * [NOAA](http://www.ospo.noaa.gov/)
+* [Open Street Map](https://earthexplorer.usgs.gov/)
+* [Open Topography](https://portal.opentopography.org/datasets)
 * [Sentinel Hub](https://www.sentinel-hub.com/)
+* [Terra Populus](https://terra.ipums.org/)
+* [The Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home)
+* [The Humanitarian Data Exchange (HDX)](https://data.humdata.org/dataset)
+* [United Nations Environment Programme (UNDP](http://geodata.grid.unep.ch/)
 * [USGS (Landsat)](http://earthexplorer.usgs.gov/)
 
 #### Links to Derivative Products
 * [Poverty from Space: Using High-Resolution Satellite Imagery for Estimating Economic Well-Being](https://documents1.worldbank.org/curated/en/610771513691888412/pdf/WPS8284.pdf)
-
 
 #### Links to Commercial Data Vendors
 * [Airbus](https://www.intelligence-airbusds.com/access-to-our-products/)
