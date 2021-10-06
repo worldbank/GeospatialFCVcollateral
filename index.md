@@ -66,9 +66,11 @@ In this module, we learned about the basics of satellite imagery and remote sens
 
 In this module, you learned some basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. Finally, you examineed the risks associated with using drones in a project for image collection and the safety measures that should be taken to ensure drones are used responsibly.  
 
+Drone imagery also offers the exciting possibility of creating high resolution 3D models of your Area of Interest (AOI). This can be useful for conducting analysis related to volume measurements, line of sight measurements, or simply visualizing your AOI in more detail. With modern software packages, creating 3D models can be automated from your imagery dataset. Look at the links under "Links to Popular Data Processing Software" to find some common software tools used in the industry.
+
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Drone Module</button>
 
-#### Links to Popular Data Processing Softwares
+#### Links to Popular Data Processing Software
 * [DroneDeploy 3D](https://www.dronedeploy.com/product/gallery/)
 * [Pix4d](https://www.pix4d.com/)
 * [PrecisionHawk 3D](https://www.precisionhawk.com/)
