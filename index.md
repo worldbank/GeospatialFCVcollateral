@@ -48,9 +48,6 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [United Nations Environment Programme (UNDP](http://geodata.grid.unep.ch/)
 * [USGS (Landsat)](http://earthexplorer.usgs.gov/)
 
-#### Links to Derivative Products
-* [Poverty from Space: Using High-Resolution Satellite Imagery for Estimating Economic Well-Being](https://documents1.worldbank.org/curated/en/610771513691888412/pdf/WPS8284.pdf)
-
 #### Links to Commercial Data Vendors
 * [Airbus](https://www.intelligence-airbusds.com/access-to-our-products/)
 * [Apollo Mapping](https://apollomapping.com/)
