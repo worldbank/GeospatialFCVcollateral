@@ -64,6 +64,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [Satellite Imaging Corporation](http://www.satimagingcorp.com/)
 * [SIIS](https://www.si-imaging.com/)
 * [Urthecast](https://www.urthecast.com)
+* [WorldPop: Global Population and Settlement Data](https://www.worldpop.org/)
 
 
 ### Drone Imagery <a name="drones"></a>
