@@ -26,7 +26,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 #### Links to Additional Training Material 
 * [ESA: Geospatial Infromation Technology in FCV contexts](http://www.eo4sd-fragility.net/news/geospatial-information-technology-git-fragile-contexts-%E2%80%93-now-accessible-world-bank-groups-open)
 
-#### Links to Public Data Repositories 
+#### Links to Public Data Repositories & Other Derivative Products
 * [China](http://www.cma.gov.cn/en)
 * [ESA](https://earth.esa.int/web/guest/home)
 * [ESA-Sentinel](https://sentinel.esa.int/web/sentinel/)
