@@ -119,7 +119,10 @@ GEMS
 * [GEMS – Korea Trust Fund for Economic and Peacebuilding Transitions and the World Bank Group Partnership Fund for the Sustainable Development Goals, “Geo-Enabling initiative for Monitoring and Supervision (GEMS). Blogpost.](https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/geo-enabling-initiative-for-monitoring-and-supervision-gems)
 * [GEMS – Sector-based Interactive Case Studies: Examples for the field.](https://thedocs.worldbank.org/en/doc/4e1fb3d2785e13359d205ec6dd8dd194-0090082021/original/GEMS-Sector-Case-Studies-interactive-PDF.pdf)
 
-COVID-19 and other crisis related resources
+OLC
+* [C4D2 Training Initiative](https://olc.worldbank.org/content/c4d2-training-initiative) Note: Login credentials needed.
+
+COVID-19 and other crisis management related resources
 * [Evaluation during COVID-19](https://ieg.worldbankgroup.org/blogseries/25846)
 * [Mobile phone surveys for understanding COVID-19 impacts](https://blogs.worldbank.org/impactevaluations/mobile-phone-surveys-understanding-covid-19-impacts-part-i-sampling-and-mode)
 * [Practical tips for implementing remote surveys while under lockdown](https://blogs.worldbank.org/impactevaluations/practical-tips-implementing-remote-surveys-time-great-lockdown?CID=WBW_AL_BlogNotification_EN_EXT)
@@ -146,8 +149,6 @@ COVID-19 and other crisis related resources
 * [DIAL and Data-Pop Alliance, n.d. “MD4D Handbook from DIAL”.](https://resources.dial.community/resources/md4d_handbook)
 * [GSMA, 2020. “The State of Mobile Internet Connectivity”.](https://www.gsma.com/r/somic/)
 * [GSMA, 2021. “The Mobile Economy 2021”.](https://www.gsma.com/mobileeconomy/)
-* [GSMA, 2020. “COVID-19 Privacy Guidelines"](https://www.gsma.com/publicpolicy/resources/covid-19-privacy-guidelines)
-* [GSMA, 2017. “Mobile Privacy and Big Data Analytics” - Privacy Guidelines](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
 * [GSMA and UN Global Pulse, 2017. “The State of Mobile Data for Social Good”](https://www.unglobalpulse.org/document/the-state-of-mobile-data-for-social-good/)
 * [Salah, Albert & Pentland, Alex & Lepri, Bruno & Letouzé, Emmanuel. (2019). Guide to Mobile Data Analytics in Refugee Scenarios The 'Data for Refugees Challenge' Study: The 'Data for Refugees Challenge' Study. 10.1007/978-3-030-12554-7.](https://datapopalliance.org/publications/book-guide-to-mobile-data-analytics-in-refugee-scenarios/)
 
@@ -155,6 +156,19 @@ COVID-19 and other crisis related resources
 #### Research Papers
 * [Milusheva, S., Lewin, A., Begazo Gomez, T., Matekenya, D., & Reid, K. (2021). Challenges and opportunities in accessing mobile phone data for COVID-19 response in developing countries. Data & Policy, 3, E20.](https://www.cambridge.org/core/journals/data-and-policy/article/challenges-and-opportunities-in-accessing-mobile-phone-data-for-covid19-response-in-developing-countries/F60EDD9307D702EED123B452ACC34C36)
 
+#### Ethics, Security and Data Privacy-Preserving Approaches
+* [GSMA, 2020. COVID-19 Privacy Guidelines](https://www.gsma.com/publicpolicy/resources/covid-19-privacy-guidelines)
+* [GSMA, 2017. Mobile Privacy and Big Data Analytics - Privacy Considerations](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
+* [de Montjoye, Gambs, Blondel et al. 2018. On the Privacy-conscientious Use of Mobile Phone Data. Sci Data 5, 180286](https://www.nature.com/articles/sdata2018286#citeas)
+* [Human Rights Watch, 2020. Mobile Location Data and Covid-19: Q&A](https://www.hrw.org/news/2020/05/13/mobile-location-data-and-covid-19-qa)
+* [Tom Lee, 2019. Prioritizing Privacy When Using Location in Apps. Blogpost for Mapbox](https://blog.mapbox.com/prioritizing-privacy-when-using-location-in-apps-f31cdec85fc9)
+* [ICRC, 2018. Handbook on Data Protection in Humanitarian Action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
+* [International Conference of Data Protection and Privacy Commissioners, 2015. Resolution on Privacy and International Humanitarian Action](https://www.apda.ad/sites/default/files/2018-10/2015_7_resolution-on-privacy-and-international-humanitarian-action-en.pdf)
+* [UN Global Pulse, 2020. Risks, Harms and Benefits Assessment](https://www.unglobalpulse.org/policy/risk-assessment/)
+* [UN Global Pulse and IAPP, 2018. Building Ethics into Privacy Frameworks for Big Data and AI](https://iapp.org/resources/article/building-ethics-into-privacy-frameworks-for-big-data-and-ai/)
+* [UN Handbook for Privacy Preserving Computation Techniques](https://docs.google.com/document/d/1GYu6UJI81jR8LgooXVDsYk1s6FlM-SbOvo3oLHglFhY/edit#)
+* [UN Principles on Personal Data Protection and Privacy](https://unsceb.org/principles-personal-data-protection-and-privacy-listing)
+* [USAID, 2019. Considerations for Using Data Responsibly at USAID](https://www.usaid.gov/sites/default/files/documents/15396/USAID-UsingDataResponsibly.pdf)
 
 #### -Not Yet Categorized-
 * [Flowminder and DIAL’s FlowKit, 2018: a free and open analytics toolkit for Call Details Records.](https://www.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
@@ -167,6 +181,7 @@ COVID-19 and other crisis related resources
 * [Survey Modes Matter - MSIES panel discussion](https://osf.io/g3tkd/)
 * [LSMS team’s OLC course on remote surveys](https://olc.worldbank.org/content/remote-training-phone-surveys)
 * [Internal resource of TOR template for hiring survey firms for phone surveys (attached)] --pending--
+* [The MapScaping Podcast, 2021. Where Does the Blue Dot Come From?](https://open.spotify.com/episode/2KWz4bhI0qY0fHGEha0EpM?si=ooNEbRmaT8S2TkZzC9FAUg&context=spotify%3Ashow%3A57EmXdDgrUNYxtrer6LVsI&dl_branch=1&nd=1)
 
 Abdul Latif Jameel Poverty Action Lab (J-PAL)
 * [Remote survey guide](https://www.povertyactionlab.org/resource/resources-conducting-remote-surveys)
