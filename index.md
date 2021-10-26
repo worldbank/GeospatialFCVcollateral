@@ -66,6 +66,9 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [Urthecast](https://www.urthecast.com)
 * [WorldPop: Global Population and Settlement Data](https://www.worldpop.org/)
 
+#### Case Studies
+* Uganda Crop Yield Estimation: more information found [Here](https://documents1.worldbank.org/curated/en/556261522069698373/pdf/Eyes-in-the-sky-boots-on-the-ground-assessing-satellite-and-ground-based-approaches-to-crop-yield-measurement-and-analysis-in-Uganda.pdf)
+* Niger Mining Sites: coming soon
 
 ### Drone Imagery <a name="drones"></a>
 
