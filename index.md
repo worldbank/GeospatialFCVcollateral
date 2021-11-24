@@ -185,6 +185,7 @@ COVID-19 and other crisis management related resources
 * [LSMS team’s OLC course on remote surveys](https://olc.worldbank.org/content/remote-training-phone-surveys)
 * [Internal resource of TOR template for hiring survey firms for phone surveys (attached)] --pending--
 * [The MapScaping Podcast, 2021. Where Does the Blue Dot Come From?](https://open.spotify.com/episode/2KWz4bhI0qY0fHGEha0EpM?si=ooNEbRmaT8S2TkZzC9FAUg&context=spotify%3Ashow%3A57EmXdDgrUNYxtrer6LVsI&dl_branch=1&nd=1)
+* [University of Michigan, Data Collection with Web, Telephones, and F2F(https://www.coursera.org/learn/data-collection-methods)
 
 Abdul Latif Jameel Poverty Action Lab (J-PAL)
 * [Remote survey guide](https://www.povertyactionlab.org/resource/resources-conducting-remote-surveys)
