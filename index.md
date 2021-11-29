@@ -102,123 +102,75 @@ Drone imagery also offers the exciting possibility of creating high resolution 3
 
 <img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
-* [Big Mobile phone data guide](https://wordpress.com/support/markdown-quick-reference/)
-
 In this module, you learned how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You learned how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You also learned how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You explored case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery. Finally, you learned the principles and practices for responsibly using modile data in development work.
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Mobile Phone Module</button>
 
 
-#### Links to World Bank Resources
+#### Big Mobile Data Resources
 
-DIME
-*	[DIME – Remote surveys and related pages.](https://dimewiki.worldbank.org/Remote_Surveys)
-*	[DIME - Guidance for remote data collection](https://dimewiki.worldbank.org/Preparing_for_Remote_Data_Collection)
-
-GEMS
-* [GEMS – World Bank Group, “Geo-Enabling Initiative for Monitoring and Supervision (GEMS)” (English). Washington, D.C.](http://documents.worldbank.org/curated/en/271431561153010274/Geo-Enabling-Initiative-for-Monitoring-and-Supervision-GEMS)
-* [GEMS – Korea Trust Fund for Economic and Peacebuilding Transitions and the World Bank Group Partnership Fund for the Sustainable Development Goals, “Geo-Enabling initiative for Monitoring and Supervision (GEMS). Blogpost.](https://www.worldbank.org/en/topic/fragilityconflictviolence/brief/geo-enabling-initiative-for-monitoring-and-supervision-gems)
-* [GEMS – Sector-based Interactive Case Studies: Examples for the field.](https://thedocs.worldbank.org/en/doc/4e1fb3d2785e13359d205ec6dd8dd194-0090082021/original/GEMS-Sector-Case-Studies-interactive-PDF.pdf)
-
-OLC
-* [C4D2 Training Initiative](https://olc.worldbank.org/content/c4d2-training-initiative) Note: Login credentials needed.
-
-COVID-19 and other crisis management related resources
-* [Evaluation during COVID-19](https://ieg.worldbankgroup.org/blogseries/25846)
-* [Mobile phone surveys for understanding COVID-19 impacts](https://blogs.worldbank.org/impactevaluations/mobile-phone-surveys-understanding-covid-19-impacts-part-i-sampling-and-mode)
-* [Practical tips for implementing remote surveys while under lockdown](https://blogs.worldbank.org/impactevaluations/practical-tips-implementing-remote-surveys-time-great-lockdown?CID=WBW_AL_BlogNotification_EN_EXT)
-* [Lessons on how to reduce attrition in phone surveys](https://blogs.worldbank.org/impactevaluations/reducing-attrition-phone-surveys)
-* [Experience with using phone surveys during the Ebola crisis](https://blogs.worldbank.org/impactevaluations/dialing-data-story-high-frequency-phone-survey-liberia)
-* [Phone survey interviews for high-frequency data](https://blogs.worldbank.org/impactevaluations/calling-it-in-using-phones-for-repeat-surveys)
-* [Methodological experiment of phone vs in-person interviewing with firms](https://blogs.worldbank.org/impactevaluations/dialing-data-enterprise-edition)
-* [Dabalen, Andrew; Etang, Alvin; Hoogeveen, Johannes; Mushi, Elvis; Schipper, Youdi; von Engelhardt, Johannes. 2016. Mobile Phone Panel Surveys in Developing Countries : A Practical Guide for Microdata Collection. The World Bank.](https://openknowledge.worldbank.org/handle/10986/24595)
-
-
-#### Links to UN Resources
+Handbooks, Guides:
 * [ITU, 2020. “Handbook for the collection of administrative data on telecommunications/ICT”](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/handbook/2020/ITUHandbookTelecomAdminData2020_E_rev1.pdf)
-* [ITU, 2020. “Measuring Digital Development Facts and Figures 2020” (Interactive)](https://www.itu.int/en/ITU-D/Statistics/Dashboards/Pages/IFF.aspx)
-* [ITU, 2020. “Measuring Digital Development Facts and Figures 2020” (pdf)](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/FactsFigures2020.pdf)
-* [ITU, 2017. “Big Data for Measuring The Information Society – Methodology” Geneva](https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
-* [UN-Migration - OIM, 2021. “Assessing the Use of Call Detail Records (CDR) for Monitoring Mobility and Displacement”](https://migrationnetwork.un.org/fr/node/2855)
-* [UN-STAT, 2019. “Handbook on the Use of Mobile Phone Data for Official Statistics”, UN Global Working Group on Big Data for Official Statistics.](https://unstats.un.org/bigdata/task-teams/mobile-phone/MPD%20Handbook%2020191004.pdf)
-* [UN-STAT, 2019. "What is Mobile Phone Data, Overview of data generated by mobile communication technologies." Presentation by Siim Esko, Positium Estonia](https://unstats.un.org/bigdata/events/2019/tbilisi/presentations/Session%201/Mobile%20Phone%20Data%20-%20Introduction%20Siim.pdf)
-* [United Nations Handbook on Privacy Preservation Techniques](https://unstats.un.org/bigdata/task-teams/privacy/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
-* [United Nations Global Working Group, 2019. “5th International Conference on Big Data for Official Statistics”](https://unstats.un.org/unsd/bigdata/conferences/2019/workshops/mobile-phone.asp)
+* [Mobile Data for Development Handbooks (MD4D) DIAL and Data-Pop Alliance](https://resources.dial.community/resources/md4d_handbook)
+* [UN IOM "Assessing CDR for Monitoring Mobility and Displacement](https://www.migrationdataportal.org/resource/assessing-use-call-detail-records-cdr-monitoring-mobility-and-displacement)
+* [Where Does the Blue Dot Come From?, MapScaping Podcast, 2021](https://mapscaping.com/blogs/the-mapscaping-podcast/where-does-the-blue-dot-come-from)
 
+Tools, Algorithms
 
-#### Reports and Publications
-* [DIAL and Data-Pop Alliance, n.d. “MD4D Handbook from DIAL”.](https://resources.dial.community/resources/md4d_handbook)
-* [GSMA, 2020. “The State of Mobile Internet Connectivity”.](https://www.gsma.com/r/somic/)
-* [GSMA, 2021. “The Mobile Economy 2021”.](https://www.gsma.com/mobileeconomy/)
-* [GSMA and UN Global Pulse, 2017. “The State of Mobile Data for Social Good”](https://www.unglobalpulse.org/document/the-state-of-mobile-data-for-social-good/)
-* [Salah, Albert & Pentland, Alex & Lepri, Bruno & Letouzé, Emmanuel. (2019). Guide to Mobile Data Analytics in Refugee Scenarios The 'Data for Refugees Challenge' Study: The 'Data for Refugees Challenge' Study. 10.1007/978-3-030-12554-7.](https://datapopalliance.org/publications/book-guide-to-mobile-data-analytics-in-refugee-scenarios/)
-
-
-#### Research Papers
-* [Milusheva, S., Lewin, A., Begazo Gomez, T., Matekenya, D., & Reid, K. (2021). Challenges and opportunities in accessing mobile phone data for COVID-19 response in developing countries. Data & Policy, 3, E20.](https://www.cambridge.org/core/journals/data-and-policy/article/challenges-and-opportunities-in-accessing-mobile-phone-data-for-covid19-response-in-developing-countries/F60EDD9307D702EED123B452ACC34C36)
-
-#### Ethics, Security and Data Privacy-Preserving Approaches
-* [GSMA, 2020. COVID-19 Privacy Guidelines](https://www.gsma.com/publicpolicy/resources/covid-19-privacy-guidelines)
-* [GSMA, 2017. Mobile Privacy and Big Data Analytics - Privacy Considerations](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
-* [de Montjoye, Gambs, Blondel et al. 2018. On the Privacy-conscientious Use of Mobile Phone Data. Sci Data 5, 180286](https://www.nature.com/articles/sdata2018286#citeas)
-* [Human Rights Watch, 2020. Mobile Location Data and Covid-19: Q&A](https://www.hrw.org/news/2020/05/13/mobile-location-data-and-covid-19-qa)
-* [Tom Lee, 2019. Prioritizing Privacy When Using Location in Apps. Blogpost for Mapbox](https://blog.mapbox.com/prioritizing-privacy-when-using-location-in-apps-f31cdec85fc9)
-* [ICRC, 2018. Handbook on Data Protection in Humanitarian Action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
-* [International Conference of Data Protection and Privacy Commissioners, 2015. Resolution on Privacy and International Humanitarian Action](https://www.apda.ad/sites/default/files/2018-10/2015_7_resolution-on-privacy-and-international-humanitarian-action-en.pdf)
-* [UN Global Pulse, 2020. Risks, Harms and Benefits Assessment](https://www.unglobalpulse.org/policy/risk-assessment/)
-* [UN Global Pulse and IAPP, 2018. Building Ethics into Privacy Frameworks for Big Data and AI](https://iapp.org/resources/article/building-ethics-into-privacy-frameworks-for-big-data-and-ai/)
-* [UN Handbook for Privacy Preserving Computation Techniques](https://docs.google.com/document/d/1GYu6UJI81jR8LgooXVDsYk1s6FlM-SbOvo3oLHglFhY/edit#)
-* [UN Principles on Personal Data Protection and Privacy](https://unsceb.org/principles-personal-data-protection-and-privacy-listing)
-* [USAID, 2019. Considerations for Using Data Responsibly at USAID](https://www.usaid.gov/sites/default/files/documents/15396/USAID-UsingDataResponsibly.pdf)
-
-#### -Not Yet Categorized-
 * [Flowminder and DIAL’s FlowKit, 2018: a free and open analytics toolkit for Call Details Records.](https://www.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * [University of Tokyo CDR Analysis Toolkit.](https://github.com/SpatialDataCommons/CDR-analysis-tools-std)
+* [Mobilekit - python library for analyzing mobility data](https://mobilkit.readthedocs.io/en/stable/)
 * [Bandicoot open source python toolkit to analyze mobile data.](https://cpg.doc.ic.ac.uk/bandicoot/docs/)
 * [scikit-mobility - mobility analysis in Python.](https://github.com/scikit-mobility/scikit-mobility)
 * [OpenCellID The world's largest Open Database of Cell Towers.](https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)
 * [Open Algorithms (OPAL), 2017. “Reconciling open innovation and data security”.](https://static1.squarespace.com/static/599ef170197aeac586fed53f/t/5afb2df488251b3eba96f6f1/1526410740445/OPAL-reconciling-open-innovation-and-data-security.pdf)
-* [Survey Solutions – Ultimate Solution for Quality Survey Data.](https://mysurvey.solutions/en/)
-* [Survey Modes Matter - MSIES panel discussion](https://osf.io/g3tkd/)
-* [LSMS team’s OLC course on remote surveys](https://olc.worldbank.org/content/remote-training-phone-surveys)
-* [Internal resource of TOR template for hiring survey firms for phone surveys (attached)] --pending--
-* [The MapScaping Podcast, 2021. Where Does the Blue Dot Come From?](https://open.spotify.com/episode/2KWz4bhI0qY0fHGEha0EpM?si=ooNEbRmaT8S2TkZzC9FAUg&context=spotify%3Ashow%3A57EmXdDgrUNYxtrer6LVsI&dl_branch=1&nd=1)
-* [University of Michigan, Data Collection with Web, Telephones, and F2F(https://www.coursera.org/learn/data-collection-methods)
-* [World Bank LSMS - Practical Guide for Mobile Phone Data Collection](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/877231468391801912/mobile-phone-panel-surveys-in-developing-countries-a-practical-guide-for-microdata-collection)
-* [IPA Remote Surveying Handbook](https://www.poverty-action.org/publication/remote-surveying-pandemic-handbook)
 
-Abdul Latif Jameel Poverty Action Lab (J-PAL)
-* [Remote survey guide](https://www.povertyactionlab.org/resource/resources-conducting-remote-surveys)
-* [Resources for adapting to phone surveys during COVID-19](https://www.povertyactionlab.org/blog/7-2-20/resources-adapting-phone-surveys-during-covid-19)
+Ethics, Security and Data Privacy-Preserving Approaches
 
-USAID
-* [Guide for adopting remote monitoring approaches during COVID-19](https://www.usaid.gov/digital-development/covid19-remote-monitoring-guide)
+* [UN Principles on Personal Data Protection and Privacy](https://unsceb.org/principles-personal-data-protection-and-privacy-listing)
+* [GSMA, Mobile Privacy and Big Data Analytics - Privacy Considerations](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
+* [United Nations Handbook on Privacy Preservation Techniques](https://unstats.un.org/bigdata/task-teams/privacy/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
+* [On the Privacy-conscientious Use of Mobile Phone Data. Sci Data 5, 180286](https://www.nature.com/articles/sdata2018286#citeas)
+* [Prioritizing Privacy When Using Location in Apps. Blogpost for Mapbox](https://blog.mapbox.com/prioritizing-privacy-when-using-location-in-apps-f31cdec85fc9)
+* [ICRC, 2018. Handbook on Data Protection in Humanitarian Action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
+* [UN Global Pulse, 2020. Risks, Harms and Benefits Assessment](https://www.unglobalpulse.org/policy/risk-assessment/)
 
-The Busara Center for Behavioral Economics
-* [In-person lab not possible, what else can you do?](https://docs.google.com/document/d/1rQjw8nIcPRTPtRMqWLPE48xAc1hRNCr3sV6Ux2NI4dw/edit)
-* [Crowdsourced resources on the validity of alternative data collection modes](https://docs.google.com/document/d/1wqhN7Gh--AIm6P409Dg2wXY_9UV9LX_w3dy7VYFkRBY/edit)
+Other Resources, References, Background Materials
+* [GSMA, 2020. “The State of Mobile Internet Connectivity”.](https://www.gsma.com/r/somic/)
+* [GSMA, 2021. “The Mobile Economy 2021”.](https://www.gsma.com/mobileeconomy/)
+* [GSMA and UN Global Pulse, 2017. “The State of Mobile Data for Social Good”](https://www.unglobalpulse.org/document/the-state-of-mobile-data-for-social-good/)
+* [Salah, Albert & Pentland, Alex & Lepri, Bruno & Letouzé, Emmanuel. (2019). Guide to Mobile Data Analytics in Refugee Scenarios The 'Data for Refugees Challenge' Study: The 'Data for Refugees Challenge' Study. 10.1007/978-3-030-12554-7.](https://datapopalliance.org/publications/book-guide-to-mobile-data-analytics-in-refugee-scenarios/)
+* [Milusheva, S., Lewin, A., Begazo Gomez, T., Matekenya, D., & Reid, K. (2021). Challenges and opportunities in accessing mobile phone data for COVID-19 response in developing countries. Data & Policy, 3, E20.](https://www.cambridge.org/core/journals/data-and-policy/article/challenges-and-opportunities-in-accessing-mobile-phone-data-for-covid19-response-in-developing-countries/F60EDD9307D702EED123B452ACC34C36)
+* [ITU, 2017. “Big Data for Measuring The Information Society – Methodology” Geneva](https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
+* [“Handbook on the Use of Mobile Phone Data for Official Statistics”, UN Global Working Group on Big Data for Official Statistics.](https://unstats.un.org/bigdata/task-teams/mobile-phone/MPD%20Handbook%2020191004.pdf)
+* [United Nations Global Working Group, 2019. “5th International Conference on Big Data for Official Statistics”](https://unstats.un.org/unsd/bigdata/conferences/2019/workshops/mobile-phone.asp)
 
-IDinsight
-* [How to maximize phone surveys for remote data collection.](https://medium.com/idinsight-blog/results-on-speed-dial-leveraging-data-on-demand-for-phone-surveys-ec3584194a59)
-* [Three steps to designing an effective phone survey that reaches respondents.](https://medium.com/idinsight-blog/three-steps-for-designing-a-phone-survey-reaching-respondents-part-i-fb968828ba4b)
-* [How to identify the best length and time for a phone survey.](https://medium.com/idinsight-blog/phone-survey-duration-and-timings-reaching-respondents-part-ii-b2c85627d576)
-* [Lessons on remote data collection management from phone surveys in India and Kenya](https://medium.com/idinsight-blog/how-to-hire-and-train-a-phone-survey-team-c07be616b15d)
+#### Active Data Collection with Mobile Technologies
 
-Mathematica
-* [Tips to quickly switch from face-to-face to home-based telephone interviewing](https://www.mathematica.org/commentary/tips-to-quickly-switch-from-face-to-face-to-home-based-telephone-interviewing)
+Practical Guides
 
-Michigan State University
-* [Different modes of using mobile phones to do research in the time of COVID-19](https://www.canr.msu.edu/news/using-mobile-phones-to-do-research-in-the-time-of-covid-19-lockdowns-and-beyond)
+*	[WBG DIME - Guidance for remote data collection](https://dimewiki.worldbank.org/Preparing_for_Remote_Data_Collection)
+*	[WBG LSMS - Practical Guide for Mobile Phone Panel Surveys in Developing Countries](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/877231468391801912/mobile-phone-panel-surveys-in-developing-countries-a-practical-guide-for-microdata-collection) 
+* [JPA best practices conducting phone surveys](https://www.povertyactionlab.org/blog/3-20-20/best-practices-conducting-phone-surveys)
+* [Different modes of using mobile phones for Data Collection, Michigan State](https://www.canr.msu.edu/news/using-mobile-phones-to-do-research-in-the-time-of-covid-19-lockdowns-and-beyond)
+* [J-PAL- Remote survey guide](https://www.povertyactionlab.org/resource/resources-conducting-remote-surveys)
 
-Columbia University Mailman School of Public Health (ICAP)
-* [Phone surveys for Health](https://icap.columbia.edu/tools_resources/special-webinar-archived-recording-phone-surveys-for-health/)
+Project Supervision 
+* [GEMS – World Bank Group, “Geo-Enabling Initiative for Monitoring and Supervision (GEMS)” (English). Washington, D.C.](http://documents.worldbank.org/curated/en/271431561153010274/Geo-Enabling-Initiative-for-Monitoring-and-Supervision-GEMS)
+* [GEMS – Sector-based Interactive Case Studies: Examples for the field.](https://thedocs.worldbank.org/en/doc/4e1fb3d2785e13359d205ec6dd8dd194-0090082021/original/GEMS-Sector-Case-Studies-interactive-PDF.pdf)
 
-CartONG
-* [Adapting data collection for M&E projects.](https://blog.cartong.org/2020/04/10/covid-19-crisis-how-to-adapt-data-collection-for-monitoring-and-accountability/)
-* [Practical resources on data management for humanitarian and development NGOs.](https://blog.cartong.org/2020/04/10/covid-19-im-practical-resources-for-aid-actors/)
+Tools
 
-60Decibels
-* [Remote Survey Toolkit](https://www.60decibels.com/user/pages/03.Work/_remote_survey_toolkit/60_Decibels_Remote_Survey_Toolkit_March_2020.pdf)
+* [Survey Solutions – World Bank open source software](https://mysurvey.solutions/en/)
+* [SurveyCTO - Mobile Data Collection Platform(https://www.surveycto.com/)
+* [KoboToolbox for digital data collection](https://www.kobotoolbox.org/)
+
+#### Additional Online Learning Courses
+
+* [WBG - Living Standards Measurement Survey - C4D2 Training on Survey Data Collection](https://olc.worldbank.org/content/c4d2-training-initiative) Note: Login credentials needed.
+* [WBG - Manage Successful Impact Evaluation Surveys](https://www.worldbank.org/en/events/2021/05/24/manage-successful-impact-evaluation-surveys)
+* [Coursera: Data Collection with Web, Telephones, and F2F, University of Michigan](https://www.coursera.org/learn/data-collection-methods)
+
 
 
 <!--
