@@ -112,10 +112,8 @@ In this module, you learned how mobile phone technologies are creating new oppor
 #### Links to World Bank Resources
 
 DIME
-* [DIME Wiki – Main page.](https://dimewiki.worldbank.org/Main_Page)
-*	[DIME Wiki – Remote surveys and related pages.](https://dimewiki.worldbank.org/Remote_Surveys)
-*	[DIME Wiki – Informed consent templates for different modes of surveys.](https://github.com/worldbank/dime-standards/tree/master/dime-research-standards/pillar-1-research-ethics/research-ethics-resources/informed-consent-templates)
-*	[The DIME Analytics Data Handbook by Kristoffer Bjarkefur, Luiza Cardoso de Andrade, Benjamin Daniels, Maria Ruth Jones, 2021, Development Research in Practice.](https://worldbank.github.io/dime-data-handbook/)
+*	[DIME – Remote surveys and related pages.](https://dimewiki.worldbank.org/Remote_Surveys)
+*	[DIME - Guidance for remote data collection](https://dimewiki.worldbank.org/Preparing_for_Remote_Data_Collection)
 
 GEMS
 * [GEMS – World Bank Group, “Geo-Enabling Initiative for Monitoring and Supervision (GEMS)” (English). Washington, D.C.](http://documents.worldbank.org/curated/en/271431561153010274/Geo-Enabling-Initiative-for-Monitoring-and-Supervision-GEMS)
@@ -186,6 +184,8 @@ COVID-19 and other crisis management related resources
 * [Internal resource of TOR template for hiring survey firms for phone surveys (attached)] --pending--
 * [The MapScaping Podcast, 2021. Where Does the Blue Dot Come From?](https://open.spotify.com/episode/2KWz4bhI0qY0fHGEha0EpM?si=ooNEbRmaT8S2TkZzC9FAUg&context=spotify%3Ashow%3A57EmXdDgrUNYxtrer6LVsI&dl_branch=1&nd=1)
 * [University of Michigan, Data Collection with Web, Telephones, and F2F(https://www.coursera.org/learn/data-collection-methods)
+* [World Bank LSMS - Practical Guide for Mobile Phone Data Collection](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/877231468391801912/mobile-phone-panel-surveys-in-developing-countries-a-practical-guide-for-microdata-collection)
+* [IPA Remote Surveying Handbook](https://www.poverty-action.org/publication/remote-surveying-pandemic-handbook)
 
 Abdul Latif Jameel Poverty Action Lab (J-PAL)
 * [Remote survey guide](https://www.povertyactionlab.org/resource/resources-conducting-remote-surveys)
