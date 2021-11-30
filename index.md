@@ -1,11 +1,11 @@
-## Welcome to the Geospatial and ICT Resources Page
+# Welcome to the Geospatial and ICT Resources Page
 
 On this site you can find supplementary resources for the World Bank training modules related to the intergration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning material and other relevant resources.
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
 
-### Remote Sensing Imagery  <a name="remotesensing"></a>
+## Remote Sensing Imagery  <a name="remotesensing"></a>
 
 <img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
@@ -13,7 +13,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Remote Sensing Module</button>
 
-#### Links to Additional Reference Material 
+### Links to Additional Reference Material 
 * [ESA: Agriculture Overview](https://earth.esa.int/web/guest/earth-topics/agriculture)
 * [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
 * [EU Science Hub. Global Human Settlement Layer](https://ec.europa.eu/jrc/en/global-human-settlement-layer)
@@ -23,10 +23,10 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [Satsummit: The State of Satellites](https://landscape.satsummit.io/)
 * [World Pop](https://www.worldpop.org/about)
 
-#### Links to Additional Training Material 
+### Links to Additional Training Material 
 * [ESA: Geospatial Infromation Technology in FCV contexts](http://www.eo4sd-fragility.net/news/geospatial-information-technology-git-fragile-contexts-%E2%80%93-now-accessible-world-bank-groups-open)
 
-#### Links to Public Data Repositories & Other Derivative Products
+### Links to Public Data Repositories & Other Derivative Products
 * [China](http://www.cma.gov.cn/en)
 * [ESA](https://earth.esa.int/web/guest/home)
 * [ESA-Sentinel](https://sentinel.esa.int/web/sentinel/)
@@ -48,7 +48,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [United Nations Environment Programme (UNDP](http://geodata.grid.unep.ch/)
 * [USGS (Landsat)](http://earthexplorer.usgs.gov/)
 
-#### Links to Commercial Data Vendors
+### Links to Commercial Data Vendors
 * [Airbus](https://www.intelligence-airbusds.com/access-to-our-products/)
 * [Apollo Mapping](https://apollomapping.com/)
 * [CGG](http://www.cgg.com/default.aspx?cid=7450)
@@ -66,11 +66,11 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [Urthecast](https://www.urthecast.com)
 * [WorldPop: Global Population and Settlement Data](https://www.worldpop.org/)
 
-#### Case Studies
+### Case Studies
 * Uganda Crop Yield Estimation: more information found [Here](https://documents1.worldbank.org/curated/en/556261522069698373/pdf/Eyes-in-the-sky-boots-on-the-ground-assessing-satellite-and-ground-based-approaches-to-crop-yield-measurement-and-analysis-in-Uganda.pdf)
 * Niger Mining Sites: coming soon
 
-### Drone Imagery <a name="drones"></a>
+## Drone Imagery <a name="drones"></a>
 
 <img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
@@ -80,7 +80,7 @@ Drone imagery also offers the exciting possibility of creating high resolution 3
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Drone Module</button>
 
-#### Links to Popular Data Processing Software
+### Links to Popular Data Processing Software
 * [DroneDeploy 3D](https://www.dronedeploy.com/product/gallery/)
 * [Pix4d](https://www.pix4d.com/)
 * [PrecisionHawk 3D](https://www.precisionhawk.com/)
@@ -90,15 +90,15 @@ Drone imagery also offers the exciting possibility of creating high resolution 3
 * [Maps Made Easy](https://www.mapsmadeeasy.com/)
 * [3DF Zphyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/)
 
-#### Links to Open Drone Data Repositories
+### Links to Open Drone Data Repositories
 * [Open Aerial Map](https://openaerialmap.org/)
 
-#### Links to Related Blog Posts
+### Links to Related Blog Posts
 * [World Bank Blogs: Pointers from the Philippines](https://blogs.worldbank.org/governance/drones-better-roads-pointers-philippines)
 * [UNDP Drones fro Social Good](https://stories.undp.org/drones-for-social-good)
 * [Development Asia: How to Use Drones in Development Projects](https://development.asia/explainer/how-use-drones-development-projects#collapse1d)
 
-### Mobile Phone Data <a name="mobile"></a>
+## Mobile Phone Data <a name="mobile"></a>
 
 <img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
@@ -107,7 +107,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Mobile Phone Module</button>
 
 
-#### Big Mobile Data Resources
+### Big Mobile Data Resources
 
 **Links to Big Mobile Data - Handbooks, Guides**
 * [ITU, 2020. “Handbook for the collection of administrative data on telecommunications/ICT”](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/handbook/2020/ITUHandbookTelecomAdminData2020_E_rev1.pdf)
@@ -145,7 +145,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [“Handbook on the Use of Mobile Phone Data for Official Statistics”, UN Global Working Group on Big Data for Official Statistics.](https://unstats.un.org/bigdata/task-teams/mobile-phone/MPD%20Handbook%2020191004.pdf)
 * [United Nations Global Working Group, 2019. “5th International Conference on Big Data for Official Statistics”](https://unstats.un.org/unsd/bigdata/conferences/2019/workshops/mobile-phone.asp)
 
-#### Active Data Collection with Mobile Technologies
+### Active Mobile Data Collection
 
 **Links to Remote Data Collection - Good Practices**
 
