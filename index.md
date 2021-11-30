@@ -109,13 +109,13 @@ In this module, you learned how mobile phone technologies are creating new oppor
 
 #### Big Mobile Data Resources
 
-**Big Mobile Data - Handbooks, Guides**
+**Links to Big Mobile Data - Handbooks, Guides**
 * [ITU, 2020. “Handbook for the collection of administrative data on telecommunications/ICT”](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/handbook/2020/ITUHandbookTelecomAdminData2020_E_rev1.pdf)
 * [Mobile Data for Development Handbooks (MD4D) DIAL and Data-Pop Alliance](https://resources.dial.community/resources/md4d_handbook)
 * [UN IOM "Assessing CDR for Monitoring Mobility and Displacement](https://www.migrationdataportal.org/resource/assessing-use-call-detail-records-cdr-monitoring-mobility-and-displacement)
 * [Where Does the Blue Dot Come From?, MapScaping Podcast, 2021](https://mapscaping.com/blogs/the-mapscaping-podcast/where-does-the-blue-dot-come-from)
 
-**Big Mobile Data - Tools, Algorithms**
+**Links to Big Mobile Data - Tools, Algorithms**
 
 * [Flowminder and DIAL’s FlowKit, 2018: a free and open analytics toolkit for Call Details Records.](https://www.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * [University of Tokyo CDR Analysis Toolkit.](https://github.com/SpatialDataCommons/CDR-analysis-tools-std)
@@ -125,7 +125,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [OpenCellID The world's largest Open Database of Cell Towers.](https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)
 * [Open Algorithms (OPAL), 2017. “Reconciling open innovation and data security”.](https://static1.squarespace.com/static/599ef170197aeac586fed53f/t/5afb2df488251b3eba96f6f1/1526410740445/OPAL-reconciling-open-innovation-and-data-security.pdf)
 
-**Big Mobile Data - Ethics, Security and Data Privacy-Preserving Approaches**
+**Links to Big Mobile Data - Ethics, Security and Privacy-Preserving Approaches**
 
 * [UN Principles on Personal Data Protection and Privacy](https://unsceb.org/principles-personal-data-protection-and-privacy-listing)
 * [GSMA, Mobile Privacy and Big Data Analytics - Privacy Considerations](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
@@ -135,7 +135,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [ICRC, 2018. Handbook on Data Protection in Humanitarian Action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
 * [UN Global Pulse, 2020. Risks, Harms and Benefits Assessment](https://www.unglobalpulse.org/policy/risk-assessment/)
 
-**Other Big Mobile Data References, Background Materials**
+**Links to other Big Mobile Data References, Background Materials**
 * [GSMA, 2020. “The State of Mobile Internet Connectivity”.](https://www.gsma.com/r/somic/)
 * [GSMA, 2021. “The Mobile Economy 2021”.](https://www.gsma.com/mobileeconomy/)
 * [GSMA and UN Global Pulse, 2017. “The State of Mobile Data for Social Good”](https://www.unglobalpulse.org/document/the-state-of-mobile-data-for-social-good/)
@@ -147,7 +147,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 
 #### Active Data Collection with Mobile Technologies
 
-**Remote Data Collection - Good Practices**
+**Links to Remote Data Collection - Good Practices**
 
 *	[WBG DIME - Guidance for remote data collection](https://dimewiki.worldbank.org/Preparing_for_Remote_Data_Collection)
 *	[WBG LSMS - Practical Guide for Mobile Phone Panel Surveys in Developing Countries](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/877231468391801912/mobile-phone-panel-surveys-in-developing-countries-a-practical-guide-for-microdata-collection) 
@@ -157,18 +157,18 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [GEMS – World Bank Group, “Geo-Enabling Initiative for Monitoring and Supervision (GEMS)” (English). Washington, D.C.](http://documents.worldbank.org/curated/en/271431561153010274/Geo-Enabling-Initiative-for-Monitoring-and-Supervision-GEMS)
 * [GEMS – Sector-based Interactive Case Studies: Examples for the field.](https://thedocs.worldbank.org/en/doc/4e1fb3d2785e13359d205ec6dd8dd194-0090082021/original/GEMS-Sector-Case-Studies-interactive-PDF.pdf)
 
-**Mobile Data Collection Tools**
+**Links to Mobile Data Collection Tools**
 
 * [Survey Solutions – World Bank open source software](https://mysurvey.solutions/en/)
 * [SurveyCTO - Mobile Data Collection Platform(https://www.surveycto.com/)
 * [KoboToolbox for digital data collection](https://www.kobotoolbox.org/)
 
-#### Additional Online Learning Courses (Big Data, Mobile Active Data Collection)
+**Links to additional online learning courses (Big Data, Mobile Active Data Collection)
 
 * [WBG - Living Standards Measurement Survey - C4D2 Training on Survey Data Collection](https://olc.worldbank.org/content/c4d2-training-initiative) Note: Login credentials needed.
 * [WBG - Manage Successful Impact Evaluation Surveys](https://www.worldbank.org/en/events/2021/05/24/manage-successful-impact-evaluation-surveys)
 * [Coursera: Data Collection with Web, Telephones, and F2F, University of Michigan](https://www.coursera.org/learn/data-collection-methods)
-
+* [GSMA Big Data and AI for impact](https://www.gsmatraining.com/course/big-data-analytics-and-artificial-intelligence-for-impact/)
 
 
 <!--
