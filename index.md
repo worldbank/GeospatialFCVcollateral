@@ -145,7 +145,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [“Handbook on the Use of Mobile Phone Data for Official Statistics”, UN Global Working Group on Big Data for Official Statistics.](https://unstats.un.org/bigdata/task-teams/mobile-phone/MPD%20Handbook%2020191004.pdf)
 * [United Nations Global Working Group, 2019. “5th International Conference on Big Data for Official Statistics”](https://unstats.un.org/unsd/bigdata/conferences/2019/workshops/mobile-phone.asp)
 
-**Additional Learning Big Mobile Data
+**Additional Learning Big Mobile Data**
 
 * [GSMA Big Data and AI for impact online course](https://www.gsmatraining.com/course/big-data-analytics-and-artificial-intelligence-for-impact/)
 
