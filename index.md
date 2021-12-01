@@ -13,7 +13,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Remote Sensing Module</button>
 
-### Links to Additional Reference Material 
+**Remote Sensing Reference Material** 
 * [ESA: Agriculture Overview](https://earth.esa.int/web/guest/earth-topics/agriculture)
 * [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
 * [EU Science Hub. Global Human Settlement Layer](https://ec.europa.eu/jrc/en/global-human-settlement-layer)
@@ -23,10 +23,10 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [Satsummit: The State of Satellites](https://landscape.satsummit.io/)
 * [World Pop](https://www.worldpop.org/about)
 
-### Links to Additional Training Material 
+**Additional Remote Sensing Training Materials** 
 * [ESA: Geospatial Infromation Technology in FCV contexts](http://www.eo4sd-fragility.net/news/geospatial-information-technology-git-fragile-contexts-%E2%80%93-now-accessible-world-bank-groups-open)
 
-### Links to Public Data Repositories & Other Derivative Products
+**Public Data Repositories & Other Derivative Products**
 * [China](http://www.cma.gov.cn/en)
 * [ESA](https://earth.esa.int/web/guest/home)
 * [ESA-Sentinel](https://sentinel.esa.int/web/sentinel/)
@@ -48,7 +48,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [United Nations Environment Programme (UNDP](http://geodata.grid.unep.ch/)
 * [USGS (Landsat)](http://earthexplorer.usgs.gov/)
 
-### Links to Commercial Data Vendors
+**Commercial Geospatial Data Vendors**
 * [Airbus](https://www.intelligence-airbusds.com/access-to-our-products/)
 * [Apollo Mapping](https://apollomapping.com/)
 * [CGG](http://www.cgg.com/default.aspx?cid=7450)
@@ -66,7 +66,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 * [Urthecast](https://www.urthecast.com)
 * [WorldPop: Global Population and Settlement Data](https://www.worldpop.org/)
 
-### Case Studies
+**Remote Sensing Case Studies**
 * Uganda Crop Yield Estimation: more information found [Here](https://documents1.worldbank.org/curated/en/556261522069698373/pdf/Eyes-in-the-sky-boots-on-the-ground-assessing-satellite-and-ground-based-approaches-to-crop-yield-measurement-and-analysis-in-Uganda.pdf)
 * Niger Mining Sites: coming soon
 
@@ -80,7 +80,7 @@ Drone imagery also offers the exciting possibility of creating high resolution 3
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Drone Module</button>
 
-### Links to Popular Data Processing Software
+**Popular Drone Data Processing Software**
 * [DroneDeploy 3D](https://www.dronedeploy.com/product/gallery/)
 * [Pix4d](https://www.pix4d.com/)
 * [PrecisionHawk 3D](https://www.precisionhawk.com/)
@@ -90,10 +90,10 @@ Drone imagery also offers the exciting possibility of creating high resolution 3
 * [Maps Made Easy](https://www.mapsmadeeasy.com/)
 * [3DF Zphyr](https://www.3dflow.net/3df-zephyr-photogrammetry-software/)
 
-### Links to Open Drone Data Repositories
+**Open Drone Data Repositories**
 * [Open Aerial Map](https://openaerialmap.org/)
 
-### Links to Related Blog Posts
+**Related Blog Posts**
 * [World Bank Blogs: Pointers from the Philippines](https://blogs.worldbank.org/governance/drones-better-roads-pointers-philippines)
 * [UNDP Drones fro Social Good](https://stories.undp.org/drones-for-social-good)
 * [Development Asia: How to Use Drones in Development Projects](https://development.asia/explainer/how-use-drones-development-projects#collapse1d)
@@ -109,13 +109,13 @@ In this module, you learned how mobile phone technologies are creating new oppor
 
 ### Big Mobile Data Resources
 
-**Links to Big Mobile Data - Handbooks, Guides**
+**Big Mobile Data - Handbooks, Guides**
 * [ITU, 2020. “Handbook for the collection of administrative data on telecommunications/ICT”](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/handbook/2020/ITUHandbookTelecomAdminData2020_E_rev1.pdf)
 * [Mobile Data for Development Handbooks (MD4D) DIAL and Data-Pop Alliance](https://resources.dial.community/resources/md4d_handbook)
 * [UN IOM "Assessing CDR for Monitoring Mobility and Displacement](https://www.migrationdataportal.org/resource/assessing-use-call-detail-records-cdr-monitoring-mobility-and-displacement)
 * [Where Does the Blue Dot Come From?, MapScaping Podcast, 2021](https://mapscaping.com/blogs/the-mapscaping-podcast/where-does-the-blue-dot-come-from)
 
-**Links to Big Mobile Data - Tools, Algorithms**
+**Big Mobile Data Open Tools, Algorithms**
 
 * [Flowminder and DIAL’s FlowKit, 2018: a free and open analytics toolkit for Call Details Records.](https://www.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * [University of Tokyo CDR Analysis Toolkit.](https://github.com/SpatialDataCommons/CDR-analysis-tools-std)
@@ -125,7 +125,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [OpenCellID The world's largest Open Database of Cell Towers.](https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)
 * [Open Algorithms (OPAL), 2017. “Reconciling open innovation and data security”.](https://static1.squarespace.com/static/599ef170197aeac586fed53f/t/5afb2df488251b3eba96f6f1/1526410740445/OPAL-reconciling-open-innovation-and-data-security.pdf)
 
-**Links to Big Mobile Data - Ethics, Security and Privacy-Preserving Approaches**
+**Big Mobile Data - Ethics, Security and Privacy-Preserving Resources**
 
 * [UN Principles on Personal Data Protection and Privacy](https://unsceb.org/principles-personal-data-protection-and-privacy-listing)
 * [GSMA, Mobile Privacy and Big Data Analytics - Privacy Considerations](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
@@ -135,7 +135,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [ICRC, 2018. Handbook on Data Protection in Humanitarian Action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
 * [UN Global Pulse, 2020. Risks, Harms and Benefits Assessment](https://www.unglobalpulse.org/policy/risk-assessment/)
 
-**Links to other Big Mobile Data References, Background Materials**
+**Other Big Mobile Data Background Materials**
 * [GSMA, 2020. “The State of Mobile Internet Connectivity”.](https://www.gsma.com/r/somic/)
 * [GSMA, 2021. “The Mobile Economy 2021”.](https://www.gsma.com/mobileeconomy/)
 * [GSMA and UN Global Pulse, 2017. “The State of Mobile Data for Social Good”](https://www.unglobalpulse.org/document/the-state-of-mobile-data-for-social-good/)
@@ -145,9 +145,13 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [“Handbook on the Use of Mobile Phone Data for Official Statistics”, UN Global Working Group on Big Data for Official Statistics.](https://unstats.un.org/bigdata/task-teams/mobile-phone/MPD%20Handbook%2020191004.pdf)
 * [United Nations Global Working Group, 2019. “5th International Conference on Big Data for Official Statistics”](https://unstats.un.org/unsd/bigdata/conferences/2019/workshops/mobile-phone.asp)
 
+**Additional Learning Big Mobile Data
+
+* [GSMA Big Data and AI for impact online course](https://www.gsmatraining.com/course/big-data-analytics-and-artificial-intelligence-for-impact/)
+
 ### Active Mobile Data Collection
 
-**Links to Remote Data Collection - Good Practices**
+**Remote Mobile Data Collection - Good Practices**
 
 *	[WBG DIME - Guidance for remote data collection](https://dimewiki.worldbank.org/Preparing_for_Remote_Data_Collection)
 *	[WBG LSMS - Practical Guide for Mobile Phone Panel Surveys in Developing Countries](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/877231468391801912/mobile-phone-panel-surveys-in-developing-countries-a-practical-guide-for-microdata-collection) 
@@ -157,18 +161,17 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [GEMS – World Bank Group, “Geo-Enabling Initiative for Monitoring and Supervision (GEMS)” (English). Washington, D.C.](http://documents.worldbank.org/curated/en/271431561153010274/Geo-Enabling-Initiative-for-Monitoring-and-Supervision-GEMS)
 * [GEMS – Sector-based Interactive Case Studies: Examples for the field.](https://thedocs.worldbank.org/en/doc/4e1fb3d2785e13359d205ec6dd8dd194-0090082021/original/GEMS-Sector-Case-Studies-interactive-PDF.pdf)
 
-**Links to Mobile Data Collection Tools**
+**Mobile Data Collection Tools**
 
 * [Survey Solutions – World Bank open source software](https://mysurvey.solutions/en/)
-* [SurveyCTO - Mobile Data Collection Platform(https://www.surveycto.com/)
+* [SurveyCTO - Mobile Data Collection Platform](https://www.surveycto.com/)
 * [KoboToolbox for digital data collection](https://www.kobotoolbox.org/)
 
-**Links to additional online learning courses (Big Data, Mobile Active Data Collection)
+**Additional Learning Active Data Collection
 
 * [WBG - Living Standards Measurement Survey - C4D2 Training on Survey Data Collection](https://olc.worldbank.org/content/c4d2-training-initiative) Note: Login credentials needed.
 * [WBG - Manage Successful Impact Evaluation Surveys](https://www.worldbank.org/en/events/2021/05/24/manage-successful-impact-evaluation-surveys)
 * [Coursera: Data Collection with Web, Telephones, and F2F, University of Michigan](https://www.coursera.org/learn/data-collection-methods)
-* [GSMA Big Data and AI for impact](https://www.gsmatraining.com/course/big-data-analytics-and-artificial-intelligence-for-impact/)
 
 
 <!--
