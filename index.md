@@ -110,6 +110,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 ### Big Mobile Data Resources
 
 **Big Mobile Data - Handbooks, Guides**
+* [World Bank Group - Guidance Note on Location Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/Guidance%20Note%20on%20Location%20Data.pdf)
 * [ITU, 2020. “Handbook for the collection of administrative data on telecommunications/ICT”](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/handbook/2020/ITUHandbookTelecomAdminData2020_E_rev1.pdf)
 * [Mobile Data for Development Handbooks (MD4D) DIAL and Data-Pop Alliance](https://resources.dial.community/resources/md4d_handbook)
 * [UN IOM "Assessing CDR for Monitoring Mobility and Displacement](https://www.migrationdataportal.org/resource/assessing-use-call-detail-records-cdr-monitoring-mobility-and-displacement)
