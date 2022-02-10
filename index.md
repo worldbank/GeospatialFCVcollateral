@@ -130,6 +130,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 
 * [UN Principles on Personal Data Protection and Privacy](https://unsceb.org/principles-personal-data-protection-and-privacy-listing)
 * [GSMA, Mobile Privacy and Big Data Analytics - Privacy Considerations](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
+* [GSMA AI Ethics Principles](https://cdn-01.cmbackbone.net/cd/gsmatraining.admin-agylia.com/df012046c1ab471981a78a74ea8df597/.attachments/alwaysvisible/GSMA%20AI%20Ethics%20Principles%202020.pdf1607517171384%2BGSMA%20AI%20Ethics%20Principles%202020.pdf?)
 * [United Nations Handbook on Privacy Preservation Techniques](https://unstats.un.org/bigdata/task-teams/privacy/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf)
 * [On the Privacy-conscientious Use of Mobile Phone Data. Sci Data 5, 180286](https://www.nature.com/articles/sdata2018286#citeas)
 * [Prioritizing Privacy When Using Location in Apps. Blogpost for Mapbox](https://blog.mapbox.com/prioritizing-privacy-when-using-location-in-apps-f31cdec85fc9)
@@ -173,6 +174,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [WBG - Living Standards Measurement Survey - C4D2 Training on Survey Data Collection](https://olc.worldbank.org/content/c4d2-training-initiative) Note: Login credentials needed.
 * [WBG - Manage Successful Impact Evaluation Surveys](https://www.worldbank.org/en/events/2021/05/24/manage-successful-impact-evaluation-surveys)
 * [Coursera: Data Collection with Web, Telephones, and F2F, University of Michigan](https://www.coursera.org/learn/data-collection-methods)
+* [Coursera: Survey Data Collection and Analytics Specialiation](https://www.coursera.org/specializations/data-collection)
 
 
 <!--
