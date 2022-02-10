@@ -169,7 +169,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [SurveyCTO - Mobile Data Collection Platform](https://www.surveycto.com/)
 * [KoboToolbox for digital data collection](https://www.kobotoolbox.org/)
 
-**Additional Learning Active Data Collection
+**Additional Learning - Active Data Collection**
 
 * [WBG - Living Standards Measurement Survey - C4D2 Training on Survey Data Collection](https://olc.worldbank.org/content/c4d2-training-initiative) Note: Login credentials needed.
 * [WBG - Manage Successful Impact Evaluation Surveys](https://www.worldbank.org/en/events/2021/05/24/manage-successful-impact-evaluation-surveys)
