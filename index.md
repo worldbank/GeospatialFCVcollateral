@@ -1,6 +1,6 @@
 # Welcome to the Geospatial and ICT Course Resource Page
 
-On this site you can find supplementary resources for the World Bank training modules related to the intergration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning material and other relevant resources. Most of these resources are in English, you can find **French materials at the bottom of the page** or click here.  
+On this site you can find supplementary resources for the World Bank training modules related to the integration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning material and other relevant resources. Most of these resources are in English, you can find **French materials at the bottom of the page** or click here.  
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
@@ -115,6 +115,7 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [Mobile Data for Development Handbooks (MD4D) DIAL and Data-Pop Alliance](https://resources.dial.community/resources/md4d_handbook)
 * [UN IOM "Assessing CDR for Monitoring Mobility and Displacement](https://www.migrationdataportal.org/resource/assessing-use-call-detail-records-cdr-monitoring-mobility-and-displacement)
 * [Where Does the Blue Dot Come From?, MapScaping Podcast, 2021](https://mapscaping.com/blogs/the-mapscaping-podcast/where-does-the-blue-dot-come-from)
+* [katy](wwww.katie.com)
 
 **Big Mobile Data Open Tools, Algorithms**
 
