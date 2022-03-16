@@ -1,6 +1,6 @@
 # Welcome to the Geospatial and ICT Course Resource Page
 
-On this site you can find supplementary resources for the World Bank training modules related to the integration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning resources. While most resources are in English, you can "<a href="#french_course_materials">**click here to jump to the French materials at the bottom of the page**.</a>  
+On this site you can find supplementary resources for the World Bank training modules related to the integration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning resources. While most resources are in English, you can "<a href="#french_course_materials">click here to jump to the French materials at the bottom of the page.</a>  
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
@@ -102,20 +102,24 @@ Drone imagery also offers the exciting possibility of creating high resolution 3
 
 <img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
-In this module, you learned how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You learned how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You also learned how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You explored case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery. Finally, you learned the principles and practices for responsibly using modile data in development work.
+In this module, we cover how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You learn how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You will learn how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You will explore case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery, and understand basic principles and practices for responsibly using modile data in development work.
 
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Mobile Phone Module</button>
 
 
 ### Big Mobile Data Resources
 
-**Big Mobile Data - Handbooks, Guides**
+**Big Mobile Data - Handbooks, Guides, Job Aids**
 * [World Bank Group - Guidance Note on Location Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/Guidance%20Note%20on%20Location%20Data.pdf)
 * [ITU, 2020. “Handbook for the collection of administrative data on telecommunications/ICT”](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/handbook/2020/ITUHandbookTelecomAdminData2020_E_rev1.pdf)
 * [Mobile Data for Development Handbooks (MD4D) DIAL and Data-Pop Alliance](https://resources.dial.community/resources/md4d_handbook)
 * [UN IOM "Assessing CDR for Monitoring Mobility and Displacement](https://www.migrationdataportal.org/resource/assessing-use-call-detail-records-cdr-monitoring-mobility-and-displacement)
 * [Where Does the Blue Dot Come From?, MapScaping Podcast, 2021](https://mapscaping.com/blogs/the-mapscaping-podcast/where-does-the-blue-dot-come-from)
-* [katy](wwww.katie.com)
+* [Mobile Data - Guiding Questions for Project Managers](www.google.com)
+* [Strengths and Challenges of MNO Data](www.google.com)
+* [Strengths and Challenges of Mobile Surveys](www.google.com)
+* [Strengths and Challenges of Project Supervision Apps](www.google.com)
+* [Strengths and Challenges of Mobile GPS Data](www.google.com)
 
 **Big Mobile Data Open Tools, Algorithms**
 
@@ -177,7 +181,12 @@ In this module, you learned how mobile phone technologies are creating new oppor
 * [Coursera: Data Collection with Web, Telephones, and F2F, University of Michigan](https://www.coursera.org/learn/data-collection-methods)
 * [Coursera: Survey Data Collection and Analytics Specialiation](https://www.coursera.org/specializations/data-collection)
 
-<a id="french_course_materials">**French Course Materials**</a>
+<a id="french_course_materials">**French Course Materials - Supports de cours de français**</a>
+* [Données mobiles - Questions d'orientation pour les chefs de projet](www.google.com)
+* [Forces et défis des données MNO](www.google.com)
+* [Forces et défis des sondages mobiles](www.google.com)
+* [Forces et défis des applications de supervision de projet](www.google.com)
+* [Forces et défis de l'utilisation des données de GPS téléphonie mobile](www.google.com
   
 
 <!--
