@@ -181,7 +181,7 @@ In this module, we cover how mobile phone technologies are creating new opportun
 * [Coursera: Data Collection with Web, Telephones, and F2F, University of Michigan](https://www.coursera.org/learn/data-collection-methods)
 * [Coursera: Survey Data Collection and Analytics Specialiation](https://www.coursera.org/specializations/data-collection)
 
-<a id="french_course_materials">**French Course Materials - Supports de cours de français**</a>
+<a id="french_course_materials">**French Course Materials - Supports de cours de Français**</a>
 * [Données mobiles - Questions d'orientation pour les chefs de projet](www.google.com)
 * [Atouts e faiblesses des données MNO](www.google.com)
 * [Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
