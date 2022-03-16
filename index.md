@@ -14,6 +14,8 @@ The **Geospatial and ICT tools in FCV** course was developed by the World Bank a
 The Remote Sensing module covers the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. It covers key terms related to remote sensing, and explains how to acquire the right images by learning how to properly define key objectives.
 
 **Remote Sensing Reference Material** 
+* [World Bank: Remote Sensing Guide for Practitioners](www.google.com)
+* [World Bank & SatSummit: Satellites in Global Development State of Play](https://landscape.satsummit.io/)
 * [ESA: Agriculture Overview](https://earth.esa.int/web/guest/earth-topics/agriculture)
 * [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
 * [EU Science Hub. Global Human Settlement Layer](https://ec.europa.eu/jrc/en/global-human-settlement-layer)
@@ -75,6 +77,10 @@ The Remote Sensing module covers the basics of satellite imagery and remote sens
 <img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
 The Drone module covers basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. The module discusses how to manage risks associated with using drones in a project for image collection and the safety measures that should be taken to ensure drones are used responsibly.  
+
+**Practical Guides**
+* [World Bank: Unmanned Aerial Vehicle Guide for Practitioners](www.google.com)
+* [World Bank: UAV State of Play in Development](https://uav-development.github.io/)
 
 **Popular Drone Data Processing Software**
 * [DroneDeploy 3D](https://www.dronedeploy.com/product/gallery/)
