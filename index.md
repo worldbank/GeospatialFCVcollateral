@@ -186,7 +186,7 @@ In this module, we cover how mobile phone technologies are creating new opportun
 * [Atouts e faiblesses des données MNO](www.google.com)
 * [Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
 * [Atouts e faiblesses des applications de supervision de projet](www.google.com)
-* [Atouts e faiblesses des données GPS sur la mobility](www.google.com
+* [Atouts e faiblesses des données GPS sur la mobility](www.google.com)
   
 
 <!--
