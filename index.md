@@ -1,6 +1,6 @@
 # Welcome to the Geospatial and ICT Course Resource Page
 
-On this site you can find supplementary resources for the World Bank training modules related to the integration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning resources. While most resources are in English, you can "<a href="#french_course_materials">click here to jump to the French materials at the bottom of the page.</a>  
+On this site you can find supplementary resources for the World Bank training modules related to the integration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning resources. While most resources are in English, you can "<a href="#french_course_materials">click here to jump to the French materials located at the bottom of the page.</a>  
 
 These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
 
@@ -183,10 +183,10 @@ In this module, we cover how mobile phone technologies are creating new opportun
 
 <a id="french_course_materials">**French Course Materials - Supports de cours de français**</a>
 * [Données mobiles - Questions d'orientation pour les chefs de projet](www.google.com)
-* [Forces et défis des données MNO](www.google.com)
-* [Forces et défis des sondages mobiles](www.google.com)
-* [Forces et défis des applications de supervision de projet](www.google.com)
-* [Forces et défis de l'utilisation des données de GPS téléphonie mobile](www.google.com
+* [Atouts e faiblesses des données MNO](www.google.com)
+* [Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
+* [Atouts e faiblesses des applications de supervision de projet](www.google.com)
+* [Atouts e faiblesses des données GPS sur la mobility](www.google.com
   
 
 <!--
