@@ -7,7 +7,7 @@ The **Geospatial and ICT tools in FCV** course was developed by the World Bank a
 <button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Geospatial and ICT tools in FCV</button>
 
 
-## Remote Sensing Imagery  <a name="remotesensing"></a>
+## Remote Sensing Resources  <a name="remotesensing"></a>
 
 <img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
@@ -70,7 +70,7 @@ The Remote Sensing module covers the basics of satellite imagery and remote sens
 * Uganda Crop Yield Estimation: more information found [Here](https://documents1.worldbank.org/curated/en/556261522069698373/pdf/Eyes-in-the-sky-boots-on-the-ground-assessing-satellite-and-ground-based-approaches-to-crop-yield-measurement-and-analysis-in-Uganda.pdf)
 * Niger Mining Sites: coming soon
 
-## Drone Imagery <a name="drones"></a>
+## Drone Resources <a name="drones"></a>
 
 <img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
@@ -94,13 +94,13 @@ The Drone module covers basic information related to drones, as well as how to d
 * [UNDP Drones fro Social Good](https://stories.undp.org/drones-for-social-good)
 * [Development Asia: How to Use Drones in Development Projects](https://development.asia/explainer/how-use-drones-development-projects#collapse1d)
 
-## Mobile Phone Data <a name="mobile"></a>
+## Mobile Phone Data Resources <a name="mobile"></a>
 
 <img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
 The mobile phone module discusses how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. The module includes frameworks and case studies to impart principles and practices to responsibly use mobile data in project areas like human desplacement, poverty measurements and service delivery. 
 
-### Big Mobile Data Resources
+### Big Mobile Data
 
 **Big Mobile Data - Handbooks, Guides, Job Aids**
 * [World Bank Group - Guidance Note on Location Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/Guidance%20Note%20on%20Location%20Data.pdf)
