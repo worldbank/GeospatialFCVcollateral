@@ -1,17 +1,17 @@
 # Welcome to the Geospatial and ICT Course Resource Page
 
-On this site you can find supplementary resources for the World Bank training modules related to the integration of modern data collection processes into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find links to each of these modules, along with additional learning resources. While most resources are in English, you can "<a href="#french_course_materials">click here to jump to the French materials located at the bottom of the page.</a>  
+On this site you can find supplementary resources for the World Bank training modules related to the integration of novel data into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find course materials and additional learning resources. While most resources are in English, you can "<a href="#french_course_materials">click here to jump to the French materials located at the bottom of the page.</a>  
 
-These training materials were developed by the World Bank in partnership with XXXX and YYYY in 2021. Please feel free to reach out to the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank) for questions following the completion of the training modules below. 
+The **Geospatial and ICT tools in FCV** course was developed by the World Bank and its partners. For questions related to course, please contact the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank).
+
+<button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Geospatial and ICT tools in FCV</button>
 
 
 ## Remote Sensing Imagery  <a name="remotesensing"></a>
 
 <img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
-In this module, we learned about the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. We learned about the key terms related to remote sensing, and examined how to acquire the right images by learning how to properly define key objectives. We also explored when remote sensing may not be the right data for your project needs, and, finally, we explored various case studies to illustrate how projects have utilized this data in different ways.
-
-<button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Remote Sensing Module</button>
+The Remote Sensing module covers the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. It covers key terms related to remote sensing, and explains how to acquire the right images by learning how to properly define key objectives.
 
 **Remote Sensing Reference Material** 
 * [ESA: Agriculture Overview](https://earth.esa.int/web/guest/earth-topics/agriculture)
@@ -74,11 +74,7 @@ In this module, we learned about the basics of satellite imagery and remote sens
 
 <img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
-In this module, you learned some basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. Finally, you examineed the risks associated with using drones in a project for image collection and the safety measures that should be taken to ensure drones are used responsibly.  
-
-Drone imagery also offers the exciting possibility of creating high resolution 3D models of your Area of Interest (AOI). This can be useful for conducting analysis related to volume measurements, line of sight measurements, or simply visualizing your AOI in more detail. With modern software packages, creating 3D models can be automated from your imagery dataset. Look at the links under "Links to Popular Data Processing Software" to find some common software tools used in the industry.
-
-<button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Drone Module</button>
+The Drone module covers basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. The module discusses how to manage risks associated with using drones in a project for image collection and the safety measures that should be taken to ensure drones are used responsibly.  
 
 **Popular Drone Data Processing Software**
 * [DroneDeploy 3D](https://www.dronedeploy.com/product/gallery/)
@@ -102,10 +98,7 @@ Drone imagery also offers the exciting possibility of creating high resolution 3
 
 <img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
-In this module, we cover how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You learn how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You will learn how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You will explore case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery, and understand basic principles and practices for responsibly using modile data in development work.
-
-<button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click Here to Access the Mobile Phone Module</button>
-
+The mobile phone module discusses how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. The module includes frameworks and case studies to impart principles and practices to responsibly use mobile data in project areas like human desplacement, poverty measurements and service delivery. 
 
 ### Big Mobile Data Resources
 
@@ -158,7 +151,7 @@ In this module, we cover how mobile phone technologies are creating new opportun
 
 ### Active Mobile Data Collection
 
-**Remote Mobile Data Collection - Good Practices**
+**Mobile Survey Data Collection - Good Practices**
 
 *	[WBG DIME - Guidance for remote data collection](https://dimewiki.worldbank.org/Preparing_for_Remote_Data_Collection)
 *	[WBG LSMS - Practical Guide for Mobile Phone Panel Surveys in Developing Countries](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/877231468391801912/mobile-phone-panel-surveys-in-developing-countries-a-practical-guide-for-microdata-collection) 
@@ -168,7 +161,7 @@ In this module, we cover how mobile phone technologies are creating new opportun
 * [GEMS – World Bank Group, “Geo-Enabling Initiative for Monitoring and Supervision (GEMS)” (English). Washington, D.C.](http://documents.worldbank.org/curated/en/271431561153010274/Geo-Enabling-Initiative-for-Monitoring-and-Supervision-GEMS)
 * [GEMS – Sector-based Interactive Case Studies: Examples for the field.](https://thedocs.worldbank.org/en/doc/4e1fb3d2785e13359d205ec6dd8dd194-0090082021/original/GEMS-Sector-Case-Studies-interactive-PDF.pdf)
 
-**Mobile Data Collection Tools**
+**Data Collection Tools**
 
 * [Survey Solutions – World Bank open source software](https://mysurvey.solutions/en/)
 * [SurveyCTO - Mobile Data Collection Platform](https://www.surveycto.com/)
