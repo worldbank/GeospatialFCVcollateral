@@ -1,4 +1,4 @@
-# Welcome to the Course Resource Page for Enhancing FCV Operations with Geospatial ICT Tools
+# Enhancing FCV Operations with Geospatial ICT Tools - Course Resource Page
 
 On this site you can find supplementary resources for the World Bank training modules related to the integration of novel data into global development projects using [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile). Below you can find course materials and additional learning resources. While most resources are in English, you can "<a href="#french_course_materials">click here to jump to the French materials located at the bottom of the page.</a>  
 
