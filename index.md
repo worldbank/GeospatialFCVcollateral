@@ -181,13 +181,13 @@ The mobile phone module discusses how mobile phone technologies are creating new
 * [Coursera: Survey Data Collection and Analytics Specialiation](https://www.coursera.org/specializations/data-collection)
 
 <a id="french_course_materials">**French Course Materials - Supports de cours de Français**</a>
-* [télédétection guide pour les praticiens](www.google.com)
-* [Fonctionnement de VéhiculesGuide des praticiensGuide des praticiensAériens sans PiloteAériens sans Pilote](www.google.com)
-* [Données mobiles - Questions d'orientation pour les chefs de projet](www.google.com)
-* [Atouts e faiblesses des données MNO](www.google.com)
-* [Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
-* [Atouts e faiblesses des applications de supervision de projet](www.google.com)
-* [Atouts e faiblesses des données GPS sur la mobility](www.google.com)
+* [Banque mondiale: Télédétection guide pour les praticiens](www.google.com)
+* [Banque mondiale: Fonctionnement de VéhiculesGuide des praticiensGuide des praticiensAériens sans PiloteAériens sans Pilote](www.google.com)
+* [Outils de travail: Données mobiles - Questions d'orientation pour les chefs de projet](www.google.com)
+* [Outils de travail: Atouts e faiblesses des données MNO](www.google.com)
+* [Outils de travail: Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
+* [Outils de travail: Atouts e faiblesses des applications de supervision de projet](www.google.com)
+* [Outils de travail: Atouts e faiblesses des données GPS sur la mobility](www.google.com)
   
 
 <!--
