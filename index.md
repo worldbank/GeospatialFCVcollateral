@@ -4,7 +4,7 @@ On this site you can find additional resources to accompany the World Bank's [En
 
 The **Geospatial and ICT tools in FCV** course was developed by the World Bank's Development Data Group in collaboration with operational and external partners. For questions regarding the course, please contact the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank).
 
-<button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Enhancing FCV Operations with Geospatial ICT Tools Course</button>
+<button name="button" onclick="https://olc.worldbank.org/about-olc/enhancing-fcv-operations-geospatial-ict-tools" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Clico to Access "Enhancing FCV Operations with Geospatial ICT Tools" Course</button>
 
 
 ## Remote Sensing Resources  <a name="remotesensing"></a>
@@ -187,6 +187,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [Outils de travail: Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
 * [Outils de travail: Atouts e faiblesses des applications de supervision de projet](www.google.com)
 * [Outils de travail: Atouts e faiblesses des données GPS sur la mobility](www.google.com)
+* [Banque mondiale: Améliorer les opérations dans les contextes FCV à l’aide des données géospatiales et des technologies de l’information et des communications (TIC)](https://olc.worldbank.org/about-olc/am%C3%A9liorer-les-op%C3%A9rations-dans-les-contextes-fcv)
   
 
 <!--
