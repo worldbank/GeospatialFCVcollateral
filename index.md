@@ -1,17 +1,17 @@
 # Enhancing FCV Operations with Geospatial ICT Tools - Course Resource Page
 
-On this site you can find supplementary resources for the World Bank's [Enhancing FCV Operations with Geospatial ICT Tools](www.google.com) online course. The course materials and learning resources curated below support the integration of novel data, like [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile) into global development projects. Most of the resources are in English, you can "<a href="#french_course_materials">click here to jump to the French materials located at the bottom of the page.</a>  
+On this site you can find additional resources that accompany the World Bank's [Enhancing FCV Operations with Geospatial ICT Tools](www.google.com) online course. The course materials and supplementary resources below support the use of novel data, like [Satellite Imagery](#remotesensing), [Drone Imagery](#drones), and [Mobile Phone data](#mobile) in global development projects and data products. Most of the resources are in English, you can "<a href="#french_course_materials">click here to jump to the French materials located at the bottom of the page.</a>  
 
-The **Geospatial and ICT tools in FCV** course was developed by the World Bank and its partners. For questions related to course, please contact the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank).
+The **Geospatial and ICT tools in FCV** course was developed by the World Bank's Development Data Group along with internal and external partners. For questions related to course, please contact the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank).
 
-<button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Enhancing FCV Operations with Geospatial ICT Tools</button>
+<button name="button" onclick="http://www.google.com" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Enhancing FCV Operations with Geospatial ICT Tools Course</button>
 
 
 ## Remote Sensing Resources  <a name="remotesensing"></a>
 
 <img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
-The Remote Sensing module covers the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. It covers key terms related to remote sensing, and explains how to acquire the right images by learning how to properly define key objectives.
+The Remote Sensing module covers the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. It covers key terms related to remote sensing, and explains how to acquire the right imagery, define key project objectives and data requirements.
 
 **Remote Sensing Reference Material** 
 * [World Bank: Remote Sensing Guide for Practitioners](www.google.com)
@@ -76,7 +76,7 @@ The Remote Sensing module covers the basics of satellite imagery and remote sens
 
 <img src="imgs/drone2.jpg" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
-The Drone module covers basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. The module discusses how to manage risks associated with using drones in a project for image collection and the safety measures that should be taken to ensure drones are used responsibly.  
+The Drone module covers the basics of drones for use in development projects, including how to decide if drone imagery is the appropriate solution for your project, and how to prepare for drone imagery acquisition and data processing. The module also discusses project planning for the responsible use of drones in a development project, including how to manage risk and implement safety measures. 
 
 **Practical Guides**
 * [World Bank: Unmanned Aerial Vehicle Guide for Practitioners](www.google.com)
@@ -104,7 +104,7 @@ The Drone module covers basic information related to drones, as well as how to d
 
 <img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:200px; object-fit:cover;">
 
-The mobile phone module discusses how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. The module includes frameworks and case studies to impart principles and practices to responsibly use mobile data in project areas like human desplacement, poverty measurements and service delivery. 
+The mobile data module discusses how mobile technologies both generate data and are transforming the colleciotn of development data. The module includes frameworks and case studies that illustrate principles and practices for the responsible use of mobile data in development projects. 
 
 ### Big Mobile Data
 
