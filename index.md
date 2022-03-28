@@ -14,7 +14,7 @@ The **Geospatial and ICT tools in FCV** course was developed by the World Bank's
 The Remote Sensing module covers the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. It covers key terms related to remote sensing, and explains how to acquire the right imagery, define key project objectives and data requirements.
 
 **Remote Sensing Reference Material** 
-* [World Bank: Remote Sensing Guide for Practitioners](www.google.com)
+* [World Bank: Remote Sensing Guide for Practitioners](http://pubdocs.worldbank.org/en/268191648500436430/Remote-Sensing-Guide-to-Practioners)
 * [World Bank & SatSummit: Satellites in Global Development State of Play](https://landscape.satsummit.io/)
 * [ESA: Agriculture Overview](https://earth.esa.int/web/guest/earth-topics/agriculture)
 * [ESA: Newcomers Earth Observation Guide](http://www.cma.gov.cn/en)
@@ -78,7 +78,7 @@ The Remote Sensing module covers the basics of satellite imagery and remote sens
 The Drone module covers the basics of using drones for development insights, including how to determine if drone imagery is the appropriate solution for your project. The module covers how to acquire drone imagery and plan for the responsible use of drones for development data collection, including how to manage risk and implement safety measures for data collection.
 
 **Practical Guides**
-* [World Bank: Unmanned Aerial Vehicle Guide for Practitioners](www.google.com)
+* [World Bank: Unmanned Aerial Vehicle Guide for Practitioners](http://pubdocs.worldbank.org/en/305301648500468919/Unmanned-Aerial-Vehicle-Operation-Guide-to-Practitioners)
 * [World Bank: UAV State of Play in Development](https://uav-development.github.io/)
 
 **Popular Drone Data Processing Software**
@@ -180,8 +180,8 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [Coursera: Survey Data Collection and Analytics Specialiation](https://www.coursera.org/specializations/data-collection)
 
 <a id="french_course_materials">**French Course Materials - Supports de cours de Français**</a>
-* [Banque mondiale: Télédétection guide pour les praticiens](www.google.com)
-* [Banque mondiale: Fonctionnement de VéhiculesGuide des praticiensGuide des praticiensAériens sans PiloteAériens sans Pilote](www.google.com)
+
+* [Banque mondiale: Fonctionnement de VéhiculesGuide des praticiensGuide des praticiensAériens sans PiloteAériens sans Pilote](http://pubdocs.worldbank.org/en/970401648500454499/Fonctionnement-de-Véhicules-Aériens-sans-Pilote-Guide-des-praticiens)
 * [Outils de travail: Données mobiles - Questions d'orientation pour les chefs de projet](www.google.com)
 * [Outils de travail: Atouts e faiblesses des données MNO](www.google.com)
 * [Outils de travail: Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
