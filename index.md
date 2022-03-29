@@ -4,8 +4,6 @@ On this site you can find additional resources to accompany the World Bank's [En
 
 The **Geospatial and ICT tools in FCV** course was developed by the World Bank's Development Data Group in collaboration with operational and external partners. Funding was provided by the Korean Trust Fund for Economic and Peacebuilding Transitions (KTF), a global fund administered by the World Bank to finance critical development operations and analysis in situations of Fragility, Conflict, and Violence. The KTF is kindly supported by the Ministry of Economy and Finance, Republic of Korea. For questions regarding the course, please contact the World Bank's [Geospatial Operational Support Team (GOST)](https://www.worldbank.org/en/research/brief/geospatial-operations-support-team-at-the-world-bank).
 
-<button name="button" onclick="https://olc.worldbank.org/about-olc/enhancing-fcv-operations-geospatial-ict-tools" style="width:75%;padding:9px 18px;font-size: 16px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);margin: 0 auto;display: block;">Click to Access "Enhancing FCV Operations with Geospatial ICT Tools" Course</button>
-
 
 ## Remote Sensing Resources  <a name="remotesensing"></a>
 
