@@ -185,9 +185,8 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [Outils de travail: Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
 * [Outils de travail: Atouts e faiblesses des applications de supervision de projet](www.google.com)
 * [Outils de travail: Atouts e faiblesses des données GPS sur la mobility](www.google.com)
-* [Banque mondiale: Améliorer les opérations dans les contextes FCV à l’aide des données géospatiales et des technologies de l’information et des communications (TIC)](https://olc.worldbank.org/about-olc/am%C3%A9liorer-les-op%C3%A9rations-dans-les-contextes-fcv)
-  
 
+ 
 <!--
 ```markdown
 Syntax highlighted code block
