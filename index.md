@@ -180,11 +180,11 @@ The mobile data module discusses how mobile technologies both generate data and 
 <a id="french_course_materials">**French Course Materials - Supports de cours de Français**</a>
 
 * [Banque mondiale: Fonctionnement de VéhiculesGuide des praticiensGuide des praticiensAériens sans PiloteAériens sans Pilote](http://pubdocs.worldbank.org/en/970401648500454499/Fonctionnement-de-Véhicules-Aériens-sans-Pilote-Guide-des-praticiens)
-* [Outils de travail: Données mobiles - Questions d'orientation pour les chefs de projet](www.google.com)
-* [Outils de travail: Atouts e faiblesses des données MNO](www.google.com)
-* [Outils de travail: Atouts e faiblesses des enquetes par telephone mobile](www.google.com)
-* [Outils de travail: Atouts e faiblesses des applications de supervision de projet](www.google.com)
-* [Outils de travail: Atouts e faiblesses des données GPS sur la mobility](www.google.com)
+* [Outils de travail: Données mobiles - Questions d'orientation pour les chefs de projet](https://github.com/worldbank/GeospatialFCVcollateral/raw/main/imgs/QUESTIONS%20INDICATIVES%20POUR%20D%C3%89TERMINER%20LA%20PORT%C3%89E%20D%E2%80%99UN%20PROJET%20D%E2%80%99ANALYSE%20DE%20DONN%C3%89ES%20MOBILES.pdf)
+* [Outils de travail: Atouts e faiblesses des données MNO](https://github.com/worldbank/GeospatialFCVcollateral/raw/main/imgs/Points%20forts%20et%20points%20faibles%20des%20donn%C3%A9es%20des%20ORM.pdf)
+* [Outils de travail: Atouts e faiblesses des enquetes par telephone mobile](https://github.com/worldbank/GeospatialFCVcollateral/raw/main/imgs/Points%20forts%20et%20points%20faibles%20des%20enqu%C3%AAtes%20par%20t%C3%A9l%C3%A9phone%20mobile.pdf)
+* [Outils de travail: Atouts e faiblesses des applications de supervision de projet](https://github.com/worldbank/GeospatialFCVcollateral/raw/main/imgs/Points%20forts%20et%20points%20faibles%20des%20applications%20de%20supervision%20des%20projets.pdf)
+* [Outils de travail: Atouts e faiblesses des données GPS sur la mobility](https://github.com/worldbank/GeospatialFCVcollateral/raw/main/imgs/Points%20forts%20et%20points%20faibles%20des%20donn%C3%A9es%20GPS%20sur%20la%20mobilit%C3%A9.pdf)
 
  
 <!--
