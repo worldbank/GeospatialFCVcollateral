@@ -111,11 +111,8 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [Mobile Data for Development Handbooks (MD4D) DIAL and Data-Pop Alliance](https://resources.dial.community/resources/md4d_handbook)
 * [UN IOM "Assessing CDR for Monitoring Mobility and Displacement](https://www.migrationdataportal.org/resource/assessing-use-call-detail-records-cdr-monitoring-mobility-and-displacement)
 * [Where Does the Blue Dot Come From?, MapScaping Podcast, 2021](https://mapscaping.com/blogs/the-mapscaping-podcast/where-does-the-blue-dot-come-from)
-* [Mobile Data - Guiding Questions for Project Managers](www.google.com)
-* [Strengths and Challenges of MNO Data](www.google.com)
-* [Strengths and Challenges of Mobile Surveys](www.google.com)
-* [Strengths and Challenges of Project Supervision Apps](www.google.com)
-* [Strengths and Challenges of Mobile GPS Data](www.google.com)
+* [Strengths and Challenges of MNO Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallengesMNO.pdf)
+* [Strengths and Challenges of Mobile GPS Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallengesGPS.pdf)
 
 **Big Mobile Data Open Tools, Algorithms**
 
@@ -163,6 +160,8 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [J-PAL- Remote survey guide](https://www.povertyactionlab.org/resource/resources-conducting-remote-surveys) 
 * [GEMS – World Bank Group, “Geo-Enabling Initiative for Monitoring and Supervision (GEMS)” (English). Washington, D.C.](http://documents.worldbank.org/curated/en/271431561153010274/Geo-Enabling-Initiative-for-Monitoring-and-Supervision-GEMS)
 * [GEMS – Sector-based Interactive Case Studies: Examples for the field.](https://thedocs.worldbank.org/en/doc/4e1fb3d2785e13359d205ec6dd8dd194-0090082021/original/GEMS-Sector-Case-Studies-interactive-PDF.pdf)
+* [Strengths and Challenges of Mobile Surveys](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallengesMobileDataCollection.pdf)
+* [Strengths and Challenges of Project Supervision Apps(https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallenges_ProjectSupervisionApps.pdf)
 
 **Data Collection Tools**
 
