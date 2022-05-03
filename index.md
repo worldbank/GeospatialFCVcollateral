@@ -174,7 +174,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [WBG - Living Standards Measurement Survey - C4D2 Training on Survey Data Collection](https://olc.worldbank.org/content/c4d2-training-initiative) Note: Free OLC account
 * [WBG - Manage Successful Impact Evaluation Surveys](https://www.worldbank.org/en/events/2021/05/24/manage-successful-impact-evaluation-surveys)
 * [Coursera: Data Collection with Web, Telephones, and F2F, University of Michigan](https://www.coursera.org/learn/data-collection-methods)
-* [Coursera: Survey Data Collection and Analytics Specialiation](https://www.coursera.org/specializations/data-collection)
+* [Coursera: Survey Data Collection and Analytics Specialization](https://www.coursera.org/specializations/data-collection)
 
 <a id="french_course_materials">**French Course Materials - Supports de cours de Français**</a>
 
