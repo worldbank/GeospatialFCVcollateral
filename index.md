@@ -148,6 +148,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 **Additional Learning Big Mobile Data**
 
 * [GSMA Big Data and AI for impact online course](https://www.gsmatraining.com/course/big-data-analytics-and-artificial-intelligence-for-impact/)
+* [Flowminder Understanding CDR Aggregates](https://covid19.flowminder.org/cdr-aggregates/understanding-cdr-aggregates-fundamentals)
 
 ### Active Mobile Data Collection
 
