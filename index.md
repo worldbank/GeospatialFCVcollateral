@@ -113,6 +113,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [Where Does the Blue Dot Come From?, MapScaping Podcast, 2021](https://mapscaping.com/blogs/the-mapscaping-podcast/where-does-the-blue-dot-come-from)
 * [Strengths and Challenges of MNO Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallengesMNO.pdf)
 * [Strengths and Challenges of Mobile GPS Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallengesGPS.pdf)
+* [World Bank: COVID Mobility Task Force](https://worldbank.github.io/COVID19-WBG-Mobility-Task-Force/Publications.html)
 
 **Big Mobile Data Open Tools, Algorithms**
 
