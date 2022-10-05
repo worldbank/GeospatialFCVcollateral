@@ -164,7 +164,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [GEMS – World Bank Group, “Geo-Enabling Initiative for Monitoring and Supervision (GEMS)” (English). Washington, D.C.](http://documents.worldbank.org/curated/en/271431561153010274/Geo-Enabling-Initiative-for-Monitoring-and-Supervision-GEMS)
 * [GEMS – Sector-based Interactive Case Studies: Examples for the field.](https://thedocs.worldbank.org/en/doc/4e1fb3d2785e13359d205ec6dd8dd194-0090082021/original/GEMS-Sector-Case-Studies-interactive-PDF.pdf)
 * [Strengths and Challenges of Mobile Surveys](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallengesMobileDataCollection.pdf)
-* [Strengths and Challenges of Project Supervision Apps(https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallenges_ProjectSupervisionApps.pdf)
+* [Strengths and Challenges of Project Supervision Apps](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallenges_ProjectSupervisionApps.pdf)
 
 **Data Collection Tools**
 
