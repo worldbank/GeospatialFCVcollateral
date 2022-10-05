@@ -78,6 +78,7 @@ The Drone module covers the basics of using drones for development insights, inc
 **Practical Guides**
 * [World Bank: Unmanned Aerial Vehicle Guide for Practitioners](http://pubdocs.worldbank.org/en/305301648500468919/Unmanned-Aerial-Vehicle-Operation-Guide-to-Practitioners)
 * [World Bank: UAV State of Play in Development](https://uav-development.github.io/)
+* [UNDP Handbook: How Low-income countries can use Drones](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fictworks.us4.list-manage.com%2Ftrack%2Fclick%3Fu%3D84e9f392a668e74df589375c7%26id%3D8e10fe0e35%26e%3D34a789842f&data=05%7C01%7Ctmonroe%40worldbank.org%7Cae5d5381f6344fa7907a08daa6a016f0%7C31a2fec0266b4c67b56e2796d8f59c36%7C0%7C0%7C638005504391961940%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=RqxWWEt2o8Pp%2BrVJIb5ARuCnulGRFZkOBT9TFq2J%2FwY%3D&reserved=0)
 
 **Popular Drone Data Processing Software**
 * [DroneDeploy 3D](https://www.dronedeploy.com/product/gallery/)
