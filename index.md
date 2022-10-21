@@ -118,6 +118,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 
 **Big Mobile Data Open Tools, Algorithms**
 
+* [World Bank Covid mobile analytics](https://github.com/worldbank/covid-mobile-data)
 * [Flowminder and DIAL’s FlowKit, 2018: a free and open analytics toolkit for Call Details Records.](https://www.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
 * [University of Tokyo CDR Analysis Toolkit.](https://github.com/SpatialDataCommons/CDR-analysis-tools-std)
 * [Mobilekit - python library for analyzing mobility data](https://mobilkit.readthedocs.io/en/stable/)
