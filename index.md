@@ -106,7 +106,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 
 ### Big Mobile Data
 
-**Big Mobile Data - Handbooks, Guides, Job Aids**
+**Mobile Big Data - Handbooks, Guides, Job Aids**
 * [World Bank Group - Guidance Note on Location Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/Guidance%20Note%20on%20Location%20Data.pdf)
 * [ITU, 2020. “Handbook for the collection of administrative data on telecommunications/ICT”](https://www.itu.int/en/ITU-D/Statistics/Documents/publications/handbook/2020/ITUHandbookTelecomAdminData2020_E_rev1.pdf)
 * [Mobile Data for Development Handbooks (MD4D) DIAL and Data-Pop Alliance](https://resources.dial.community/resources/md4d_handbook)
@@ -116,7 +116,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [Strengths and Challenges of Mobile GPS Data](https://github.com/worldbank/GeospatialFCVcollateral/blob/main/imgs/StrengthsChallengesGPS.pdf)
 * [World Bank: COVID Mobility Task Force](https://worldbank.github.io/COVID19-WBG-Mobility-Task-Force/Publications.html)
 
-**Big Mobile Data Open Tools, Algorithms**
+**Mobile Big Data Open Tools, Algorithms**
 
 * [World Bank Covid mobile analytics](https://github.com/worldbank/covid-mobile-data)
 * [Flowminder and DIAL’s FlowKit, 2018: a free and open analytics toolkit for Call Details Records.](https://www.flowminder.org/news/flowminder-and-the-digital-impact-alliance-announce-flowkit-a-free-and-open-analytics-toolkit-for-call-details-records)
@@ -127,7 +127,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [OpenCellID The world's largest Open Database of Cell Towers.](https://opencellid.org/#zoom=16&lat=37.77889&lon=-122.41942)
 * [Open Algorithms (OPAL), 2017. “Reconciling open innovation and data security”.](https://static1.squarespace.com/static/599ef170197aeac586fed53f/t/5afb2df488251b3eba96f6f1/1526410740445/OPAL-reconciling-open-innovation-and-data-security.pdf)
 
-**Big Mobile Data - Ethics, Security and Privacy-Preserving Resources**
+**Mobile Big Data - Ethics, Security and Privacy-Preserving Resources**
 
 * [UN Principles on Personal Data Protection and Privacy](https://unsceb.org/principles-personal-data-protection-and-privacy-listing)
 * [GSMA, Mobile Privacy and Big Data Analytics - Privacy Considerations](https://aiforimpacttoolkit.gsma.com/resources/GSMA-report_Mobile-Privacy-and-Big-Data-Analytics-Paper.pdf)
@@ -138,7 +138,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [ICRC, 2018. Handbook on Data Protection in Humanitarian Action](https://www.icrc.org/en/document/handbook-data-protection-humanitarian-action-second-edition)
 * [UN Global Pulse, 2020. Risks, Harms and Benefits Assessment](https://www.unglobalpulse.org/policy/risk-assessment/)
 
-**Other Big Mobile Data Background Materials**
+**Other Mobile Big Data Background Materials**
 * [GSMA, 2020. “The State of Mobile Internet Connectivity”.](https://www.gsma.com/r/somic/)
 * [GSMA, 2021. “The Mobile Economy 2021”.](https://www.gsma.com/mobileeconomy/)
 * [GSMA and UN Global Pulse, 2017. “The State of Mobile Data for Social Good”](https://www.unglobalpulse.org/document/the-state-of-mobile-data-for-social-good/)
@@ -152,6 +152,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 
 * [GSMA Big Data and AI for impact online course](https://www.gsmatraining.com/course/big-data-analytics-and-artificial-intelligence-for-impact/)
 * [Flowminder Understanding CDR Aggregates](https://covid19.flowminder.org/cdr-aggregates/understanding-cdr-aggregates-fundamentals)
+* [Flowminder](https://www.flowgeek.org/)
 
 ### Active Mobile Data Collection
 
