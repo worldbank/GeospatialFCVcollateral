@@ -142,10 +142,10 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [GSMA, 2020. “The State of Mobile Internet Connectivity”.](https://www.gsma.com/r/somic/)
 * [GSMA, 2021. “The Mobile Economy 2021”.](https://www.gsma.com/mobileeconomy/)
 * [GSMA and UN Global Pulse, 2017. “The State of Mobile Data for Social Good”](https://www.unglobalpulse.org/document/the-state-of-mobile-data-for-social-good/)
-* [Salah, Albert & Pentland, Alex & Lepri, Bruno & Letouzé, Emmanuel. (2019). Guide to Mobile Data Analytics in Refugee Scenarios The 'Data for Refugees Challenge' Study: The 'Data for Refugees Challenge' Study. 10.1007/978-3-030-12554-7.](https://datapopalliance.org/publications/book-guide-to-mobile-data-analytics-in-refugee-scenarios/)
-* [Milusheva, S., Lewin, A., Begazo Gomez, T., Matekenya, D., & Reid, K. (2021). Challenges and opportunities in accessing mobile phone data for COVID-19 response in developing countries. Data & Policy, 3, E20.](https://www.cambridge.org/core/journals/data-and-policy/article/challenges-and-opportunities-in-accessing-mobile-phone-data-for-covid19-response-in-developing-countries/F60EDD9307D702EED123B452ACC34C36)
-* [ITU, 2017. “Big Data for Measuring The Information Society – Methodology” Geneva](https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
-* [“Handbook on the Use of Mobile Phone Data for Official Statistics”, UN Global Working Group on Big Data for Official Statistics.](https://unstats.un.org/bigdata/task-teams/mobile-phone/MPD%20Handbook%2020191004.pdf)
+* [Guide to Mobile Data Analytics in Refugee Scenarios](https://datapopalliance.org/publications/book-guide-to-mobile-data-analytics-in-refugee-scenarios/)
+* Challenges and opportunities in accessing mobile phone data for COVID-19 response](https://www.cambridge.org/core/journals/data-and-policy/article/challenges-and-opportunities-in-accessing-mobile-phone-data-for-covid19-response-in-developing-countries/F60EDD9307D702EED123B452ACC34C36)
+* [ITU, 2017. “Big Data for Measuring The Information Society – Methodology”](https://www.itu.int/en/ITU-D/Statistics/Documents/statistics/Methodological%20Guide%20and%20Proposed%20ICT%20Indicators%20Based%20on%20Big%20Data_27Feb2019.pdf)
+* [“UN Handbook on the Use of Mobile Phone Data for Official Statistics”](https://unstats.un.org/bigdata/task-teams/mobile-phone/MPD%20Handbook%2020191004.pdf)
 * [United Nations Global Working Group, 2019. “5th International Conference on Big Data for Official Statistics”](https://unstats.un.org/unsd/bigdata/conferences/2019/workshops/mobile-phone.asp)
 
 **Additional Learning Big Mobile Data**
