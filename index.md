@@ -153,6 +153,7 @@ The mobile data module discusses how mobile technologies both generate data and 
 * [GSMA Big Data and AI for impact online course](https://www.gsmatraining.com/course/big-data-analytics-and-artificial-intelligence-for-impact/)
 * [Flowminder Understanding CDR Aggregates](https://covid19.flowminder.org/cdr-aggregates/understanding-cdr-aggregates-fundamentals)
 * [Flowminder](https://www.flowgeek.org/)
+* [UN Global Platform - Flowminder, Raising Awareness Course - registration](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Flearning.officialstatistics.org%2Fcourse%2Fview.php%3Fid%3D79&data=05%7C01%7Ctmonroe%40worldbank.org%7Cc61c04922f964767155908db14324b4d%7C31a2fec0266b4c67b56e2796d8f59c36%7C0%7C0%7C638125978487304632%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=o%2B9oK1iOeL9p3mYhSdUktBTF7p6R7kPvqBkf%2F2n483w%3D&reserved=0)
 
 ### Active Mobile Data Collection
 
